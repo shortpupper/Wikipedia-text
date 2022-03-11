@@ -1,3 +1,85 @@
 Bretwalda (also brytenwalda and bretenanwealda, sometimes capitalised) is an Old English word. The first record comes from the late 9th-century Anglo-Saxon Chronicle. It is given to some of the rulers of Anglo-Saxon kingdoms from the 5th century onwards who had achieved overlordship of some or all of the other Anglo-Saxon kingdoms. It is unclear whether the word dates back to the 5th century and was used by the kings themselves or whether it is a later, 9th-century, invention. The term bretwalda also appears in a 10th-century charter of Æthelstan. The literal meaning of the word is disputed and may translate to either 'wide-ruler' or 'Britain-ruler'.
 The rulers of Mercia were generally the most powerful of the Anglo-Saxon kings from the mid 7th century to the early 9th century but are not accorded the title of bretwalda by the Chronicle, which had an anti-Mercian bias. The Annals of Wales continued to recognise the kings of Northumbria as "Kings of the Saxons" until the death of Osred I of Northumbria in 716.
 
+Brouwer's fixed-point theorem is a fixed-point theorem in topology, named after L. E. J. (Bertus) Brouwer. It states that for any continuous function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   mapping a compact convex set to itself there is a point 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+   such that 
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            0
+          
+        
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle f(x_{0})=x_{0}}
+  . The simplest forms of Brouwer's theorem are for continuous functions 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   from a closed interval 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   in the real numbers to itself or from a closed disk 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   to itself. A more general form than the latter is for continuous functions from a convex compact subset 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   of Euclidean space to itself.
+Among hundreds of fixed-point theorems, Brouwer's is particularly well known, due in part to its use across numerous fields of mathematics.
+In its original field, this result is one of the key theorems characterizing the topology of Euclidean spaces, along with the Jordan curve theorem, the hairy ball theorem, the invariance of dimension and the Borsuk–Ulam theorem.
+This gives it a place among the fundamental theorems of topology. The theorem is also used for proving deep results about differential equations and is covered in most introductory courses on differential geometry.
+It appears in unlikely fields such as game theory. In economics, Brouwer's fixed-point theorem and its extension, the Kakutani fixed-point theorem, play a central role in the proof of existence of general equilibrium in market economies as developed in the 1950s by economics Nobel prize winners Kenneth Arrow and Gérard Debreu.
+The theorem was first studied in view of work on differential equations by the French mathematicians around Henri Poincaré and Charles Émile Picard. Proving results such as the Poincaré–Bendixson theorem requires the use of topological methods. This work at the end of the 19th century opened into several successive versions of the theorem. The case of differentiable mappings of the n-dimensional closed ball was first proved in 1910 by Jacques Hadamard and the general case for continuous mappings by Brouwer in 1911.
