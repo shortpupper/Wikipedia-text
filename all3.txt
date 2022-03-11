@@ -2943,4 +2943,90 @@ In Jewish lore, blood libels served as the impetus for the writing of the Golem 
 Altogether, there have been about 150 recorded cases of blood libel (not to mention thousands of rumors) that resulted in the arrest and killing of Jews throughout history, most of them in the Middle Ages. In almost every case, Jews were murdered, sometimes by a mob, sometimes following torture and a trial.
 The term 'blood libel' has also been used in reference to any unpleasant or damaging false accusation, and as a result, it has acquired a broader metaphoric meaning. However, this wider usage of the term remains controversial, because Jewish groups object to it.Bagpuss is a British children's television series, made by Peter Firmin and Oliver Postgate through their company Smallfilms. The series of 13 episodes was first broadcast from Tuesday 12 February  to Tuesday 7 May 1974. The title character was "a saggy, old cloth cat, baggy, and a bit loose at the seams". Although only 13 episodes were made, it remains fondly remembered, and was frequently repeated in the UK until 1986. In early 1999, Bagpuss topped a BBC poll for the UK's favourite children's television programme.Naive set theory is any of several theories of sets used in the discussion of the foundations of mathematics.
 Unlike axiomatic set theories, which are defined using formal logic, naive set theory is defined informally, in natural language. It describes the aspects of mathematical sets familiar in discrete mathematics (for example Venn diagrams and symbolic reasoning about their Boolean algebra), and suffices for the everyday use of set theory concepts in contemporary mathematics.Sets are of great importance in mathematics; in modern formal treatments, most mathematical objects (numbers, relations, functions, etc.) are defined in terms of sets. Naive set theory suffices for many purposes, while also serving as a stepping-stone towards more formal treatments.Breathy voice  (also called murmured voice, whispery voice, soughing and susurration) is a phonation in which the vocal folds vibrate, as they do in normal (modal) voicing, but are adjusted to let more air escape which produces a sighing-like sound. A simple breathy phonation, [ɦ] (not actually a fricative consonant, as a literal reading of the IPA chart would suggest), can sometimes be heard as an allophone of English /h/ between vowels, such as in the word behind, for some speakers.
-In the context of the Indo-Aryan languages like Sanskrit and Hindi and comparative Indo-European studies, breathy consonants are often called voiced aspirated, as in the Hindi and Sanskrit stops normally denoted bh, dh, ḍh, jh, and gh and the reconstructed Proto-Indo-European phoneme gʷʰ. From an articulatory perspective, that terminology is inaccurate, as breathy voice is a different type of phonation from aspiration. However, breathy and aspirated stops are acoustically similar in that in both cases there is a delay in the onset of full voicing. In the history of several languages, like Greek and some varieties of Chinese, breathy stops have developed into aspirated stops.
+In the context of the Indo-Aryan languages like Sanskrit and Hindi and comparative Indo-European studies, breathy consonants are often called voiced aspirated, as in the Hindi and Sanskrit stops normally denoted bh, dh, ḍh, jh, and gh and the reconstructed Proto-Indo-European phoneme gʷʰ. From an articulatory perspective, that terminology is inaccurate, as breathy voice is a different type of phonation from aspiration. However, breathy and aspirated stops are acoustically similar in that in both cases there is a delay in the onset of full voicing. In the history of several languages, like Greek and some varieties of Chinese, breathy stops have developed into aspirated stops.In mathematics, Bézout's identity (also called Bézout's lemma), named after Étienne Bézout, is the following theorem:
+
+Here the greatest common divisor of 0 and 0 is taken to be 0. The integers or polynomials x and y are called Bézout coefficients for (a, b); they are not unique. A pair of Bézout coefficients can be computed by the extended Euclidean algorithm, and this pair is, in the case of integers one of the two pairs such that 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+        ≤
+        
+          |
+        
+        b
+        
+          /
+        
+        d
+        
+          |
+        
+      
+    
+    {\displaystyle |x|\leq |b/d|}
+   and 
+  
+    
+      
+        
+          |
+        
+        y
+        
+          |
+        
+        ≤
+        
+          |
+        
+        a
+        
+          /
+        
+        d
+        
+          |
+        
+        ;
+      
+    
+    {\displaystyle |y|\leq |a/d|;}
+   equality occurs only if one of a and b is a multiple of the other. In the polynomial case, the extended Euclidean algorithm produces the unique pair such that 
+  
+    
+      
+        deg
+        ⁡
+        x
+        <
+        deg
+        ⁡
+        b
+      
+    
+    {\displaystyle \deg x<\deg b}
+   or 
+  
+    
+      
+        deg
+        ⁡
+        y
+        <
+        deg
+        ⁡
+        a
+      
+    
+    {\displaystyle \deg y<\deg a}
+   (both inequalities are verified except one of a and b is a multiple of the other).
+As an example, the greatest common divisor of 15 and 69 is 3, and 3 can be written as a combination of 15 and 69 as 3 = 15 × (−9) + 69 × 2, with Bézout coefficients −9 and 2.
+Many other theorems in elementary number theory, such as  Euclid's lemma or the Chinese remainder theorem, result from Bézout's identity.
+A Bézout domain is an integral domain in which Bézout's identity holds. In particular, Bézout's identity holds in principal ideal domains. Every theorem that results from Bézout's identity is thus true in all principal ideal domains.
