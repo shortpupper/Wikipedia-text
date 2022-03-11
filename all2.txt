@@ -1059,3 +1059,6 @@ The algebraic closure of K is also the smallest algebraically closed field conta
 because if M is any algebraically closed field containing K, then the elements of M that are algebraic over K form an algebraic closure of K.
 The algebraic closure of a field K has the same cardinality as K if K is infinite, and is countably infinite if K is finite.
 
+Advanced power management (APM) is an API developed by Intel and Microsoft and released in 1992 which enables an operating system running an IBM-compatible personal computer to work with the BIOS (part of the computer's firmware) to achieve power management.
+Revision 1.2 was the last version of the APM specification, released in 1996. ACPI is the successor to APM. Microsoft dropped support for APM in Windows Vista. The Linux kernel still mostly supports APM, though support for APM CPU idle was dropped in version 3.0.
+
