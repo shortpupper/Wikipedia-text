@@ -234,4 +234,25 @@ The Abbe number, VD, of a material is defined as
   where nshort, ncenter and nlong are the refractive indices of the material at three different wavelengths. The shortest wavelength index is nshort and the longest is nlong.
 Abbe numbers are used to classify glass and other optical materials in terms of their chromaticity. For example, the higher dispersion flint glasses have V < 55 whereas the lower dispersion crown glasses have larger Abbe numbers. Values of V range from below 25 for very dense flint glasses, around 34 for polycarbonate plastics, up to 65 for common crown glasses, and 75 to 85 for some fluorite and phosphate crown glasses. 
 
-Abbe numbers are used in the design of achromatic lenses, as their reciprocal is proportional to dispersion (slope of refractive index versus wavelength) in the wavelength region where the human eye is most sensitive (see graph). For different wavelength regions, or for higher precision in characterizing a system's chromaticity (such as in the design of apochromats), the full dispersion relation (refractive index as a function of wavelength) is used.
+Abbe numbers are used in the design of achromatic lenses, as their reciprocal is proportional to dispersion (slope of refractive index versus wavelength) in the wavelength region where the human eye is most sensitive (see graph). For different wavelength regions, or for higher precision in characterizing a system's chromaticity (such as in the design of apochromats), the full dispersion relation (refractive index as a function of wavelength) is used.ACN may refer to:
+
+Accenture (NYSE: ACN)
+Achang language, a Tibeto-Burman language of China
+Achnasheen railway station, UK, National Rail code
+Acineta, a genus of orchid
+ACN Inc., multi-level marketing company providing telecommunications and other services
+Action Congress of Nigeria, political party of Nigeria
+Africa Cup of Nations, biennial football tournament
+Agencia Carabobeña de Noticias, news agency, Valencia, Venezuela
+Agència Catalana de Notícies, news agency, Barcelona, Spain
+Aid to the Church in Need, Catholic charity in Königstein im Taunus, Germany
+Aircraft Classification Number, pavement load of an aircraft
+Algebraic Chess Notation, the standard notation for recording chess games
+American Collectibles Network, now Jewelry Television, US
+Andean Community of Nations
+Anglican Communion Network, Pittsburgh, US
+Ante Christum Natum, seldom-used Latin equivalent of B.C.
+Architecture for Control Networks, network protocol for theatrical control
+Atlantis Cable News, fictional news channel on The Newsroom (U.S. TV series)
+Australian Company Number
+Ciudad Acuña International Airport, an airport in Ciudad Acuña, Mexico
