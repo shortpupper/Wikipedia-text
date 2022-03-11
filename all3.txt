@@ -3045,4 +3045,166 @@ After the Second World War, BSA did not manage its business well, and a governme
 Bovril can be made into a drink ("beef tea") by diluting with hot water or, less commonly, with milk. It can be used as a flavouring for soups, broth, stews or porridge, or as a spread, especially on toast in a similar fashion to Marmite and Vegemite.
 
 Benjamin David Santer (born June 3, 1955) is a climate researcher at Lawrence Livermore National Laboratory and former researcher at the University of East Anglia's Climatic Research Unit. He also worked at the Max Planck Institute for Meteorology from 1987 to 1992. He specializes mainly in statistical analysis of climate data sets, and detection/attribution of climate change forcings.
-Since 2012, Santer has been listed on the Board of Directors of the National Center for Science Education.
+Since 2012, Santer has been listed on the Board of Directors of the National Center for Science Education.In mathematics, the Bernoulli numbers Bn are a sequence of rational numbers which occur frequently in analysis. The Bernoulli numbers appear in (and can be defined by) the Taylor series expansions of the tangent and hyperbolic tangent functions, in Faulhaber's formula for the sum of m-th powers of the first n positive integers, in the Euler–Maclaurin formula, and in expressions for certain values of the Riemann zeta function.
+The values of the first 20 Bernoulli numbers are given in the adjacent table. Two conventions are used in the literature, denoted here by 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            −
+            
+
+            
+          
+        
+      
+    
+    {\displaystyle B_{n}^{-{}}}
+   and 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            +
+            
+
+            
+          
+        
+      
+    
+    {\displaystyle B_{n}^{+{}}}
+  ; they differ only for n = 1, where 
+  
+    
+      
+        
+          B
+          
+            1
+          
+          
+            −
+            
+
+            
+          
+        
+        =
+        −
+        1
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle B_{1}^{-{}}=-1/2}
+   and 
+  
+    
+      
+        
+          B
+          
+            1
+          
+          
+            +
+            
+
+            
+          
+        
+        =
+        +
+        1
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle B_{1}^{+{}}=+1/2}
+  . For every odd n > 1, Bn = 0. For every even n > 0, Bn is negative if n is divisible by 4 and positive otherwise. The Bernoulli numbers are special values of the Bernoulli polynomials 
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle B_{n}(x)}
+  , with 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            −
+            
+
+            
+          
+        
+        =
+        
+          B
+          
+            n
+          
+        
+        (
+        0
+        )
+      
+    
+    {\displaystyle B_{n}^{-{}}=B_{n}(0)}
+   and 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            +
+          
+        
+        =
+        
+          B
+          
+            n
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle B_{n}^{+}=B_{n}(1)}
+  .The Bernoulli numbers were discovered around the same time by the Swiss mathematician Jacob Bernoulli, after whom they are named, and independently by Japanese mathematician Seki Takakazu.  Seki's discovery was posthumously published in 1712 in his work Katsuyō Sanpō; Bernoulli's, also posthumously, in his Ars Conjectandi of 1713.  Ada Lovelace's note G on the Analytical Engine from 1842 describes an algorithm for generating Bernoulli numbers with Babbage's machine. As a result, the Bernoulli numbers have the distinction of being the subject of the first published complex computer program.
