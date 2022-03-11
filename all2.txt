@@ -140,4 +140,5 @@ Amdahl's law is often used in parallel computing to predict the theoretical spee
       
     
     {\displaystyle \left({\dfrac {1}{1-p}}=20\right)}
-  .
+  .April 27 is the 117th day of the year (118th in leap years) in the Gregorian calendar;  248 days remain until the end of the year.
+
