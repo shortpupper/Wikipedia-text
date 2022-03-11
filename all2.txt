@@ -112,4 +112,32 @@ The term 'the 10th of August' is widely used by historians as a shorthand for th
 Two antipopes used the regnal name Victor IV:
 
 Antipope Victor IV (1138)
-Antipope Victor IV (1159–1164) (1095–1164)Area 51 is the common name of a highly classified United States Air Force (USAF) facility within the Nevada Test and Training Range. A remote detachment administered by Edwards Air Force Base, the facility is officially called Homey Airport (XTA/KXTA) or Groom Lake (after the salt flat next to its airfield). Details of its operations are not made public, but the USAF says that it is an open training range, and it is commonly thought to support the development and testing of experimental aircraft and weapons systems. The USAF acquired the site in 1955, primarily for flight testing the Lockheed U-2 aircraft.The intense secrecy surrounding the base has made it the frequent subject of conspiracy theories and a central component of unidentified flying object (UFO) folklore. It has never been declared a secret base, but all research and occurrences in Area 51 are Top Secret/Sensitive Compartmented Information (TS/SCI). The CIA publicly acknowledged the base's existence on June 25, 2013, following a Freedom of Information Act (FOIA) request filed in 2005, and declassified documents detailing its history and purpose.Area 51 is located in the southern portion of Nevada, 83 miles (134 km) north-northwest of Las Vegas. The surrounding area is a popular tourist destination, including the small town of Rachel on the "Extraterrestrial Highway".Audio signal processing is a subfield of signal processing that is concerned with the electronic manipulation of audio signals. Audio signals are electronic representations of sound waves—longitudinal waves which travel through air, consisting of compressions and rarefactions. The energy contained in audio signals is typically measured in decibels.  As audio signals may be represented in either digital or analog format, processing may occur in either domain.  Analog processors operate directly on the electrical signal, while digital processors operate mathematically on its digital representation.
+Antipope Victor IV (1159–1164) (1095–1164)Area 51 is the common name of a highly classified United States Air Force (USAF) facility within the Nevada Test and Training Range. A remote detachment administered by Edwards Air Force Base, the facility is officially called Homey Airport (XTA/KXTA) or Groom Lake (after the salt flat next to its airfield). Details of its operations are not made public, but the USAF says that it is an open training range, and it is commonly thought to support the development and testing of experimental aircraft and weapons systems. The USAF acquired the site in 1955, primarily for flight testing the Lockheed U-2 aircraft.The intense secrecy surrounding the base has made it the frequent subject of conspiracy theories and a central component of unidentified flying object (UFO) folklore. It has never been declared a secret base, but all research and occurrences in Area 51 are Top Secret/Sensitive Compartmented Information (TS/SCI). The CIA publicly acknowledged the base's existence on June 25, 2013, following a Freedom of Information Act (FOIA) request filed in 2005, and declassified documents detailing its history and purpose.Area 51 is located in the southern portion of Nevada, 83 miles (134 km) north-northwest of Las Vegas. The surrounding area is a popular tourist destination, including the small town of Rachel on the "Extraterrestrial Highway".Audio signal processing is a subfield of signal processing that is concerned with the electronic manipulation of audio signals. Audio signals are electronic representations of sound waves—longitudinal waves which travel through air, consisting of compressions and rarefactions. The energy contained in audio signals is typically measured in decibels.  As audio signals may be represented in either digital or analog format, processing may occur in either domain.  Analog processors operate directly on the electrical signal, while digital processors operate mathematically on its digital representation.In computer architecture, Amdahl's law (or Amdahl's argument) is a formula which gives the theoretical speedup in latency of the execution of a task at fixed workload that can be expected of a system whose resources are improved. Specifically, it states that "the overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used". It is named after computer scientist Gene Amdahl, and was presented at the AFIPS Spring Joint Computer Conference in 1967.
+Amdahl's law is often used in parallel computing to predict the theoretical speedup when using multiple processors. For example, if a program needs 20 hours to complete using a single thread, but a one-hour portion of the program cannot be parallelized, therefore only the remaining 19 hours (p = 0.95) of execution time can be parallelized, then regardless of how many threads are devoted to a parallelized execution of this program, the minimum execution time cannot be less than one hour. Hence, the theoretical speedup is limited to at most 20 times the single thread performance, 
+  
+    
+      
+        
+          (
+          
+            
+              
+                
+                  1
+                  
+                    1
+                    −
+                    p
+                  
+                
+              
+            
+            =
+            20
+          
+          )
+        
+      
+    
+    {\displaystyle \left({\dfrac {1}{1-p}}=20\right)}
+  .
