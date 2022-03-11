@@ -68,3 +68,6 @@ An astronomer is a scientist in the field of astronomy who focuses their studies
 ASCII ( (listen) ASS-kee),: 6  abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters.
 The Internet Assigned Numbers Authority (IANA) prefers the name US-ASCII for this character encoding.ASCII is one of the IEEE milestones.
 
+
+Austin is the capital of Texas in the United States.
+Austin may also refer to:
