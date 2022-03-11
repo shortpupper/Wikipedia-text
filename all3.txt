@@ -3375,3 +3375,4 @@ Although it was a critical success, Citizen Kane failed to recoup its costs at t
 The process of encoding converts information from a source into symbols for communication or storage. Decoding is the reverse process, converting code symbols back into a form that the recipient understands, such as English or/and Spanish.
 One reason for coding is to enable communication in places where ordinary plain language, spoken or written, is difficult or impossible. For example, semaphore, where the configuration of flags held by a signaler or the arms of a semaphore tower encodes parts of the message, typically individual letters, and numbers. Another person standing a great distance away can interpret the flags and reproduce the words sent.
 
+The Cheirogaleidae are the family of strepsirrhine primates containing the various dwarf and mouse lemurs. Like all other lemurs, cheirogaleids live exclusively on the island of Madagascar.
