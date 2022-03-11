@@ -2262,4 +2262,245 @@ According to Gylfaginning, a book of Snorri Sturluson's Prose Edda, Baldr's wife
 "He dwells in the place called Breidablik, which is in heaven; in that place may nothing unclean be, even as is said here:Breidablik 't is called, | where Baldr has
 A hall made for himself:
 In that land | where I know lie
-Fewest baneful runes."Breiðablik is not otherwise mentioned in the Eddic sources.Bilskirnir (Old Norse "lightning-crack") is the hall of the god Thor in Norse mythology. Here he lives with his wife Sif and their children. According to Grímnismál, the hall is the greatest of buildings and contains 540 rooms, located in Asgard, as are all the dwellings of the gods, in the kingdom of Þrúðheimr (or Þrúðvangar according to Gylfaginning and Ynglinga saga).In Norse mythology, Brísingamen (or Brísinga men) is the torc or necklace of the goddess Freyja. The name is an Old Norse compound brísinga-men whose second element is men "(ornamental) neck-ring (of precious metal), torc". The etymology of the first element is uncertain. It has been derived from Old Norse brísingr, a poetic term for "fire" or "amber" mentioned in the anonymous versified word-lists (þulur) appended to many manuscripts of the Prose Edda, making Brísingamen "gleaming torc", "sunny torc", or the like. However, Brísingr can also be an ethnonym, in which case Brísinga men is "torque of the Brísings"; the Old English parallel in Beowulf supports this derivation, though who the Brísings (Old Norse Brísingar) may have been remains unknown.
+Fewest baneful runes."Breiðablik is not otherwise mentioned in the Eddic sources.Bilskirnir (Old Norse "lightning-crack") is the hall of the god Thor in Norse mythology. Here he lives with his wife Sif and their children. According to Grímnismál, the hall is the greatest of buildings and contains 540 rooms, located in Asgard, as are all the dwellings of the gods, in the kingdom of Þrúðheimr (or Þrúðvangar according to Gylfaginning and Ynglinga saga).In Norse mythology, Brísingamen (or Brísinga men) is the torc or necklace of the goddess Freyja. The name is an Old Norse compound brísinga-men whose second element is men "(ornamental) neck-ring (of precious metal), torc". The etymology of the first element is uncertain. It has been derived from Old Norse brísingr, a poetic term for "fire" or "amber" mentioned in the anonymous versified word-lists (þulur) appended to many manuscripts of the Prose Edda, making Brísingamen "gleaming torc", "sunny torc", or the like. However, Brísingr can also be an ethnonym, in which case Brísinga men is "torque of the Brísings"; the Old English parallel in Beowulf supports this derivation, though who the Brísings (Old Norse Brísingar) may have been remains unknown.In mathematics, the Borsuk–Ulam theorem states that every continuous function from an n-sphere into Euclidean n-space maps some pair of antipodal points to the same point. Here, two points on a sphere are called antipodal if they are in exactly opposite directions from the sphere's center.
+Formally: if 
+  
+    
+      
+        f
+        :
+        
+          S
+          
+            n
+          
+        
+        →
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f:S^{n}\to \mathbb {R} ^{n}}
+   is continuous then there exists an 
+  
+    
+      
+        x
+        ∈
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x\in S^{n}}
+   such that:  
+  
+    
+      
+        f
+        (
+        −
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(-x)=f(x)}
+  .
+The case 
+  
+    
+      
+        n
+        =
+        1
+      
+    
+    {\displaystyle n=1}
+   can be illustrated by saying that there always exist a pair of opposite points on the Earth's equator with the same temperature. The same is true for any circle. This assumes the temperature varies continuously in space.
+The case 
+  
+    
+      
+        n
+        =
+        2
+      
+    
+    {\displaystyle n=2}
+   is often illustrated by saying that at any moment, there is always a pair of antipodal points on the Earth's surface with equal temperatures and equal barometric pressures, assuming that both parameters vary continuously in space.
+The Borsuk–Ulam theorem has several equivalent statements in terms of odd functions. Recall that 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S^{n}}
+   is the n-sphere and 
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+      
+    
+    {\displaystyle B^{n}}
+   is the n-ball:
+
+If 
+  
+    
+      
+        g
+        :
+        
+          S
+          
+            n
+          
+        
+        →
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle g:S^{n}\to \mathbb {R} ^{n}}
+   is a continuous odd function, then there exists an 
+  
+    
+      
+        x
+        ∈
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x\in S^{n}}
+   such that:  
+  
+    
+      
+        g
+        (
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle g(x)=0}
+  .
+If 
+  
+    
+      
+        g
+        :
+        
+          B
+          
+            n
+          
+        
+        →
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle g:B^{n}\to \mathbb {R} ^{n}}
+   is a continuous function which is odd on 
+  
+    
+      
+        
+          S
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle S^{n-1}}
+   (the boundary of 
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+      
+    
+    {\displaystyle B^{n}}
+  ), then there exists an 
+  
+    
+      
+        x
+        ∈
+        
+          B
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x\in B^{n}}
+   such that:  
+  
+    
+      
+        g
+        (
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle g(x)=0}
+  .
