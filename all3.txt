@@ -82,4 +82,110 @@ Among hundreds of fixed-point theorems, Brouwer's is particularly well known, du
 In its original field, this result is one of the key theorems characterizing the topology of Euclidean spaces, along with the Jordan curve theorem, the hairy ball theorem, the invariance of dimension and the Borsuk–Ulam theorem.
 This gives it a place among the fundamental theorems of topology. The theorem is also used for proving deep results about differential equations and is covered in most introductory courses on differential geometry.
 It appears in unlikely fields such as game theory. In economics, Brouwer's fixed-point theorem and its extension, the Kakutani fixed-point theorem, play a central role in the proof of existence of general equilibrium in market economies as developed in the 1950s by economics Nobel prize winners Kenneth Arrow and Gérard Debreu.
-The theorem was first studied in view of work on differential equations by the French mathematicians around Henri Poincaré and Charles Émile Picard. Proving results such as the Poincaré–Bendixson theorem requires the use of topological methods. This work at the end of the 19th century opened into several successive versions of the theorem. The case of differentiable mappings of the n-dimensional closed ball was first proved in 1910 by Jacques Hadamard and the general case for continuous mappings by Brouwer in 1911.Benzoic acid  is a white (or colorless) solid with the formula C6H5CO2H.  It is the simplest aromatic carboxylic acid. The name is derived from gum benzoin, which was for a long time its only source. Benzoic acid occurs naturally in many plants and serves as an intermediate in the biosynthesis of many secondary metabolites.  Salts of benzoic acid are used as food preservatives.  Benzoic acid is an important precursor for the industrial synthesis of many other organic substances.  The salts and esters of benzoic acid are known as benzoates .
+The theorem was first studied in view of work on differential equations by the French mathematicians around Henri Poincaré and Charles Émile Picard. Proving results such as the Poincaré–Bendixson theorem requires the use of topological methods. This work at the end of the 19th century opened into several successive versions of the theorem. The case of differentiable mappings of the n-dimensional closed ball was first proved in 1910 by Jacques Hadamard and the general case for continuous mappings by Brouwer in 1911.Benzoic acid  is a white (or colorless) solid with the formula C6H5CO2H.  It is the simplest aromatic carboxylic acid. The name is derived from gum benzoin, which was for a long time its only source. Benzoic acid occurs naturally in many plants and serves as an intermediate in the biosynthesis of many secondary metabolites.  Salts of benzoic acid are used as food preservatives.  Benzoic acid is an important precursor for the industrial synthesis of many other organic substances.  The salts and esters of benzoic acid are known as benzoates .In statistical mechanics and mathematics, a Boltzmann distribution (also called Gibbs distribution) is a probability distribution or probability measure that gives the probability that a system will be in a certain state as a function of that state's energy and the temperature of the system. The distribution is expressed in the form:
+
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+        ∝
+        
+          e
+          
+            −
+            
+              
+                ε
+                
+                  i
+                
+              
+            
+            
+              /
+            
+            
+              (
+              k
+              T
+              )
+            
+          
+        
+      
+    
+    {\displaystyle p_{i}\propto e^{-{\varepsilon _{i}}/{(kT)}}}
+  where pi is the probability of the system being in state i, εi is the energy of that state, and a constant kT of the distribution is the product of Boltzmann's constant k and thermodynamic temperature T. The symbol 
+  
+    
+      
+        ∝
+      
+    
+    {\textstyle \propto }
+   denotes proportionality (see § The distribution for the proportionality constant).
+The term system here has a very wide meaning; it can range from a collection of 'sufficient number' of atoms (but not a single atom) to a macroscopic system such as a natural gas storage tank. Therefore the Boltzmann distribution can be used to solve a very wide variety of problems. The distribution shows that states with lower energy will always have a higher probability of being occupied .
+The ratio of probabilities of two states is known as the Boltzmann factor and characteristically only depends on the states' energy difference:
+
+  
+    
+      
+        
+          
+            
+              p
+              
+                i
+              
+            
+            
+              p
+              
+                j
+              
+            
+          
+        
+        =
+        
+          e
+          
+            
+              (
+              
+                ε
+                
+                  j
+                
+              
+              −
+              
+                ε
+                
+                  i
+                
+              
+              )
+            
+            
+              /
+            
+            
+              (
+              k
+              T
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {p_{i}}{p_{j}}}=e^{{(\varepsilon _{j}-\varepsilon _{i})}/{(kT)}}}
+  The Boltzmann distribution is named after Ludwig Boltzmann who first formulated it in 1868 during his studies of the statistical mechanics of gases in thermal equilibrium. Boltzmann's statistical work is borne out in his paper “On the Relationship between the Second Fundamental Theorem of the Mechanical Theory of Heat and Probability Calculations Regarding the Conditions for Thermal Equilibrium"
+The distribution was later investigated extensively, in its modern generic form, by Josiah Willard Gibbs in 1902.The Boltzmann distribution should not be confused with the Maxwell–Boltzmann distribution or Maxwell-Boltzmann statistics. The Boltzmann distribution gives the probability that a system will be in a certain state as a function of that state's energy, while the Maxwell-Boltzmann distributions give the probabilities of particle speeds or energies in ideal gases.
+
