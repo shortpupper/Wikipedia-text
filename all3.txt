@@ -287,4 +287,10 @@ Article discussing the meaning and possibility of unbiased writing, using Wikipe
 The history of free online encyclopedia projects
 Why an encyclopedia?  Why not just use Google?
 Done: Kuro5hin article reporting: RMS endorsement; 10,000 articles; NYT coverage; Tech Review coverage.  (LMS plans to write this as soon as gnu.org puts up a link to Wikipedia.)
-submit Wikipedia articles on controversial issues to discussion sites to show off our neutral point of view (maybe a stupid idea)See also : Building Wikipedia membership
+submit Wikipedia articles on controversial issues to discussion sites to show off our neutral point of view (maybe a stupid idea)See also : Building Wikipedia membershipSolicited and pending:
+
+Access Place Library
+Encyclopedia Proteus
+Free Online Encyclopedias
+Student-manual.com
+informationsphereSee also : Building Wikipedia membership
