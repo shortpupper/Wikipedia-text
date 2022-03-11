@@ -556,3 +556,6 @@ Karpov is also an elected Member of the Duma in Russia. Since 2006, he has chair
 The aspect ratio is most often expressed as two integer numbers separated by a colon (x:y), less commonly as a simple or decimal fraction. The values x and y do not represent actual widths and heights but, rather, the proportion between width and height. As an example, 8:5, 16:10, 1.6:1, 8⁄5 and 1.6 are all ways of representing the same aspect ratio.
 In objects of more than two dimensions, such as hyperrectangles, the aspect ratio can still be defined as the ratio of the longest side to the shortest side.
 
+Auto racing (also known as car racing, motor racing, or automobile racing) is a motorsport involving the racing of automobiles for competition.
+Auto racing has existed since the invention of the automobile. Races of various sorts were organised, with the first recorded as early as 1867. Many of the earliest events were effectively reliability trials, aimed at proving these new machines were a practical mode of transport, but soon became an important way for automobile makers to demonstrate their machines. By the 1930s, specialist racing cars had developed.
+There are now numerous different categories, each with different rules and regulations.
