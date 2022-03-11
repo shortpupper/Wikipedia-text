@@ -627,3 +627,36 @@ Turning away from fantasy as a genre, Garner produced The Stone Book Quartet (19
 The Atlantic Ocean is the second largest of the world's oceans, that separates the old world from the new world.
 Atlantic may also refer to:
 
+An algebraic number is a number that is a root of a non-zero polynomial in one variable with integer (or, equivalently, rational) coefficients.  For example, the golden ratio, 
+  
+    
+      
+        (
+        1
+        +
+        
+          
+            5
+          
+        
+        )
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle (1+{\sqrt {5}})/2}
+  , is an algebraic number, because it is a root of the polynomial x2 − x − 1. That is, it is a value for x for which the polynomial evaluates to zero.  As another example, the complex number 
+  
+    
+      
+        1
+        +
+        i
+      
+    
+    {\displaystyle 1+i}
+   is algebraic because it is a root of x4 + 4.
+All integers and rational numbers are algebraic, as are all roots of integers. Real and complex numbers that are not algebraic, such as π and e, are called transcendental numbers.
+The set  of algebraic numbers is countably infinite and has measure zero in the Lebesgue measure as a subset of the uncountable complex numbers. In that sense, almost all complex numbers are transcendental.
