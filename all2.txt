@@ -144,4 +144,94 @@ Amdahl's law is often used in parallel computing to predict the theoretical spee
 
 Ayahuasca is a South American (pan-Amazonian) psychoactive brew used both socially and as ceremonial spiritual medicine among the indigenous peoples of the Amazon basin. It is a psychedelic and entheogenic mixed drink brew commonly made out of the Banisteriopsis caapi vine, the Psychotria viridis shrub or a substitute, and possibly other ingredients. A chemically similar preparation, sometimes called "pharmahuasca", can be prepared using N,N-Dimethyltryptamine (DMT) and a pharmaceutical monoamine oxidase inhibitor (MAOI), such as isocarboxazid. B. caapi contains several alkaloids that act as MAOIs, which are required for DMT to be orally active. Ayahuasca is prepared in a tea that, when consumed, causes an altered state of consciousness or "high", including visual hallucinations and altered perceptions of reality.The other required ingredient is a plant that contains the primary psychoactive, DMT. This is usually the shrub Psychotria viridis, but Diplopterys cabrerana may be used as a substitute. Other plant ingredients often or occasionally used in the production of ayahuasca include Justicia pectoralis, one of the Brugmansia (especially Brugmansia insignis and Brugmansia versicolor, or a hybrid breed) or Datura species, and mapacho (Nicotiana rustica).Alfonso Leng Haygus (11 February 1884 – 11 November 1974) was a post-romantic composer of classical music. He was born in Santiago, Chile. He wrote the first important symphonic work in Chilean tradition, "La Muerte de Alcino", a symphonic poem inspired by the novel of Pedro Prado. He composed many art songs in different languages and important piano pieces, like the five "Doloras" (1914), which he later orchestrated and are normally played in concerts in Chile and Latin America. He won the National Art Prize in 1957.
 Leng was also an accomplished dentist in Santiago.  As a dentist, he was the main founder of the dentistry faculty of the Universidad de Chile, and he was eventually elected as the first dean.
-Leng was the nephew of composer Carmela Mackenna.
+Leng was the nephew of composer Carmela Mackenna.In optics and lens design, the Abbe number, also known as the V-number or constringence of a transparent material, is an approximate measure of the material's dispersion (change of refractive index versus wavelength), with high values of V indicating low dispersion. It is named after Ernst Abbe (1840–1905), the German physicist who defined it. The term V-number should not be confused with the normalized frequency in fibers.
+
+The Abbe number, VD, of a material is defined as
+
+  
+    
+      
+        
+          V
+          
+            D
+          
+        
+        =
+        
+          
+            
+              
+                n
+                
+                  D
+                
+              
+              −
+              1
+            
+            
+              
+                n
+                
+                  F
+                
+              
+              −
+              
+                n
+                
+                  C
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle V_{D}={\frac {n_{D}-1}{n_{F}-n_{C}}},}
+  where nC, nD and nF are the refractive indices of the material at the wavelengths of the Fraunhofer C, D1, and F spectral lines (656.3 nm, 589.3 nm, and 486.1 nm respectively). This formulation only applies to the visible spectrum. Outside this range requires the use of different spectral lines. For non-visible spectral lines the term V-number is more commonly used. The more general formulation defined as,
+
+  
+    
+      
+        V
+        =
+        
+          
+            
+              
+                n
+                
+                  center
+                
+              
+              −
+              1
+            
+            
+              
+                n
+                
+                  short
+                
+              
+              −
+              
+                n
+                
+                  long
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle V={\frac {n_{\text{center}}-1}{n_{\text{short}}-n_{\text{long}}}},}
+  where nshort, ncenter and nlong are the refractive indices of the material at three different wavelengths. The shortest wavelength index is nshort and the longest is nlong.
+Abbe numbers are used to classify glass and other optical materials in terms of their chromaticity. For example, the higher dispersion flint glasses have V < 55 whereas the lower dispersion crown glasses have larger Abbe numbers. Values of V range from below 25 for very dense flint glasses, around 34 for polycarbonate plastics, up to 65 for common crown glasses, and 75 to 85 for some fluorite and phosphate crown glasses. 
+
+Abbe numbers are used in the design of achromatic lenses, as their reciprocal is proportional to dispersion (slope of refractive index versus wavelength) in the wavelength region where the human eye is most sensitive (see graph). For different wavelength regions, or for higher precision in characterizing a system's chromaticity (such as in the design of apochromats), the full dispersion relation (refractive index as a function of wavelength) is used.
