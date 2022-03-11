@@ -1886,4 +1886,8 @@ The rule dates from 1884; before that, a pitch that struck the batter was merely
 
 In baseball statistics, on-base percentage (OBP), also known as on-base average/OBA, measures how frequently a batter reaches base. It is the ratio of the batter's times-on-base (TOB) (the sum of hits, walks, and times hit by pitch) to their number of plate appearances. OBP does not credit the batter for reaching base on fielding errors, fielder's choice, dropped/uncaught third strikes, fielder's obstruction, or catcher's interference.
 An official MLB statistic since 1984, it is sometimes referred to as on-base average/OBA, as it is rarely presented as a true percentage.
-On-base percentage is added to slugging average to determine on-base plus slugging (OPS). The on-base percentage of all batters faced by one pitcher or team is referred to as on-base against.
+On-base percentage is added to slugging average to determine on-base plus slugging (OPS). The on-base percentage of all batters faced by one pitcher or team is referred to as on-base against.In baseball, a sacrifice fly (sometimes abbreviated to sac fly) is defined by Rule 9.08(d):
+"Score a sacrifice fly when, before two are out, the batter hits a ball in flight handled by an outfielder or an infielder running in the outfield in fair or foul territory that
+
+is caught, and a run scores after the catch, or
+is dropped, and a runner scores, if in the scorer's judgment the runner could have scored after the catch had the fly ball been caught."It is called a "sacrifice" fly because the batter allows a teammate to score a run, while sacrificing his own ability to do so. Sacrifice flies are traditionally recorded in box scores with the designation "SF".
