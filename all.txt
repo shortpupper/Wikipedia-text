@@ -2592,4 +2592,5 @@ From 1991 to 2005, the Braves were one of the most successful teams in baseball,
 "ST" officially stands for "Sixteen/Thirty-two", referring to the Motorola 68000's 16-bit external bus and 32-bit internals. The system was designed by a small team led by Shiraz Shivji.
 The ST was sold with either Atari's color monitor or less expensive monochrome monitor. Color graphics modes were available only on the former while the highest-resolution mode required the monochrome monitor. Some later models could display the color modes on a TV.
 In some markets, particularly Germany, the ST gained a foothold for CAD and desktop publishing. With its built-in MIDI ports, it was popular for music sequencing and as a controller of musical instruments among amateurs and professional musicians.
-It was superseded by the Atari STE, Atari TT, Atari MEGA STE and Falcon computers.
+It was superseded by the Atari STE, Atari TT, Atari MEGA STE and Falcon computers.The following is a list of current and past, non-classified notable artificial intelligence projects.
+
