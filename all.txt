@@ -1498,3 +1498,6 @@ In contrast, "almost no" means "a negligible amount"; that is, "almost no elemen
     {\displaystyle X}
   ".
 
+Aromatic compounds are organic compounds are "mono- and polycyclic aromatic hydrocarbons".  The parent member is benzene.
+Heteroarenes are closely related by at least one carbon atom of CH group is replaced by one of the heteroatoms oxygen, nitrogen, or sulfur. Examples of non-benzene compounds with aromatic properties are furan, a heterocyclic compound with a five-membered ring that includes a single oxygen atom, and pyridine, a heterocyclic compound with a six-membered ring containing one nitrogen atom.
+
