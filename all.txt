@@ -664,4 +664,4 @@ An algebraic number is a number that is a root of a non-zero polynomial in one v
     {\displaystyle 1+i}
    is algebraic because it is a root of x4 + 4.
 All integers and rational numbers are algebraic, as are all roots of integers. Real and complex numbers that are not algebraic, such as π and e, are called transcendental numbers.
-The set  of algebraic numbers is countably infinite and has measure zero in the Lebesgue measure as a subset of the uncountable complex numbers. In that sense, almost all complex numbers are transcendental.
+The set  of algebraic numbers is countably infinite and has measure zero in the Lebesgue measure as a subset of the uncountable complex numbers. In that sense, almost all complex numbers are transcendental.In mathematics, an automorphism is an isomorphism from a mathematical object to itself. It is, in some sense, a symmetry of the object, and a way of mapping the object to itself while preserving all of its structure. The set of all automorphisms of an object forms a group, called the automorphism group. It is, loosely speaking, the symmetry group of the object.
