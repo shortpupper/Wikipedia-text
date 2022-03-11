@@ -2622,3 +2622,97 @@ The story recounts Batman's first year as a crime-fighter as well as exploring t
 Many computer programs fail to display bidirectional text correctly. For example, the Hebrew name Sarah (שרה) is spelled: sin (ש) (which appears rightmost), then resh (ר), and finally heh (ה) (which should appear leftmost).
 Note: Some web browsers may display the Hebrew text in this article in the opposite direction.
 
+In mathematics, Bernoulli's inequality (named after Jacob Bernoulli) is an inequality that approximates exponentiations of 1 + x. It is often employed in real analysis. It has several useful variants:
+
+  
+    
+      
+        (
+        1
+        +
+        x
+        
+          )
+          
+            r
+          
+        
+        ≥
+        1
+        +
+        r
+        x
+      
+    
+    {\displaystyle (1+x)^{r}\geq 1+rx}
+   for every integer r ≥ 0 and real number x ≥ −1. The inequality is strict if x ≠ 0 and r ≥ 2.
+
+  
+    
+      
+        (
+        1
+        +
+        x
+        
+          )
+          
+            r
+          
+        
+        ≥
+        1
+        +
+        r
+        x
+      
+    
+    {\displaystyle (1+x)^{r}\geq 1+rx}
+   for every even integer r ≥ 0 and every real number x.
+
+  
+    
+      
+        (
+        1
+        +
+        x
+        
+          )
+          
+            r
+          
+        
+        ≥
+        1
+        +
+        r
+        x
+      
+    
+    {\displaystyle (1+x)^{r}\geq 1+rx}
+   for every real number r ≥ 1 and x ≥ −1. The inequalities are strict if x ≠ 0 and r ≠ 0, 1.
+
+  
+    
+      
+        (
+        1
+        +
+        x
+        
+          )
+          
+            r
+          
+        
+        ≤
+        1
+        +
+        r
+        x
+      
+    
+    {\displaystyle (1+x)^{r}\leq 1+rx}
+   for every real number 0 ≤ r ≤ 1 and x ≥ −1.
+
