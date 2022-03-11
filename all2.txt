@@ -772,3 +772,7 @@ With Rush, Lifeson played electric and acoustic guitars, as well as other string
 
 ArgoUML is an UML diagramming application written in Java and released under the open source Eclipse Public License.  By virtue of being a Java application, it is available on any platform supported by Java SE.
 
+A file archiver is a computer program that combines a number of files together into one archive file, or a series of archive files, for easier transportation or storage. File archivers may employ lossless data compression in their archive formats to reduce the size of the archive.
+Basic archivers just take a list of files and concatenate their contents sequentially into archives. The archive files need to store metadata, at least the names and lengths of the original files, if proper reconstruction is possible. More advanced archivers store additional metadata, such as the original timestamps, file attributes or access control lists.
+The process of making an archive file is called archiving or packing. Reconstructing the original files from the archive is termed unarchiving, unpacking or extracting.
+
