@@ -2544,3 +2544,5 @@ It is guaranteed to run in polynomial time
 On any given run of the algorithm, it has a probability of at most 1/3 of giving the wrong answer, whether the answer is YES or NO.In computational complexity theory, bounded-error quantum polynomial time (BQP) is the class of decision problems solvable by a quantum computer in polynomial time, with an error probability of at most 1/3 for all instances. It is the quantum analogue to the complexity class BPP.
 A decision problem is a member of  BQP if there exists a quantum algorithm (an algorithm that runs on a quantum computer) that solves the decision problem with high probability and is guaranteed to run in polynomial time. A run of the algorithm will correctly solve the decision problem with  a probability of at least 2/3.
 
+Blade Runner 3: Replicant Night is a science fiction novel by American writer K. W. Jeter published in 1996. It is a continuation of Jeter's novel Blade Runner 2: The Edge of Human, which was itself a sequel to both the film Blade Runner and the novel upon which the film was based, Philip K. Dick's Do Androids Dream of Electric Sheep?
+
