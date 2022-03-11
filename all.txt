@@ -2096,3 +2096,5 @@ Prisms and antiprisms, whose symmetry groups are the dihedral groups, are genera
 Antiprisms are a subclass of prismatoids, and are a (degenerate) type of snub polyhedron. 
 Antiprisms are similar to prisms, except that the bases are twisted relatively to each other, and that the side faces (connecting the bases) are 2n triangles, rather than n quadrilaterals.
 
+The natural history of Africa encompasses some of the well known megafauna of that continent.
+Natural history is the study and description of organisms and natural objects, especially their origins, evolution, and interrelationships.
