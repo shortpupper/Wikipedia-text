@@ -926,4 +926,11 @@ In chemistry, an alkali (; from Arabic: القلوي, romanized: al-qaly, lit.�
 Meanwhile, she says, the "feminist movement", a largely white middle and upper class affair, did not articulate the needs of poor and non-white women, thus reinforcing sexism, racism, and classism. She suggests this explains the low numbers of Black women who participated in the feminist movement in the 1970s, pointing to Louis Harris' Virginia Slims poll done in 1972 for Philip Morris that she says showed 62 percent of Black women supported "efforts to change women's status" and 67 percent "sympathized with the women's rights movement", compared with 45 and 35 percent of white women (also Steinem, 1972).AMOS BASIC is a dialect of the BASIC programming language implemented on the Amiga computer. AMOS BASIC was published by Europress Software and originally written by François Lionet with Constantin Sotiropoulos in the year 1990. AMOS was considered to be a fast language. It also had 3D capabilities.
 
 The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982 for a price of US$ 99, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released. Emerson licensed the Arcadia 2001 to Bandai, which released it in Japan. Over 30 Arcadia 2001 clones exist.
-The unrelated Arcadia Corporation, manufacturer of the Atari 2600 Supercharger add-on, was sued by Emerson for trademark infringement. Arcadia Corporation then changed its name to Starpath.
+The unrelated Arcadia Corporation, manufacturer of the Atari 2600 Supercharger add-on, was sued by Emerson for trademark infringement. Arcadia Corporation then changed its name to Starpath.In geometry, a convex uniform honeycomb is a uniform tessellation which fills three-dimensional Euclidean space with non-overlapping convex uniform polyhedral cells.
+Twenty-eight such honeycombs are known:
+
+the familiar cubic honeycomb and 7 truncations thereof;
+the alternated cubic honeycomb and 4 truncations thereof;
+10 prismatic forms based on the uniform plane tilings (11 if including the cubic honeycomb);
+5 modifications of some of the above by elongation and/or gyration.They can be considered the three-dimensional analogue to the uniform tilings of the plane.
+The Voronoi diagram of any lattice forms a convex uniform honeycomb in which the cells are zonohedra.
