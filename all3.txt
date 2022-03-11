@@ -1868,4 +1868,599 @@ Any Banach algebra
    and then applying the outcome in the original algebra. However, this is not the case all the time. For example, one cannot define all the trigonometric functions in a Banach algebra without identity.
 The theory of real Banach algebras can be very different from the theory of complex Banach algebras. For example, the spectrum of an element of a nontrivial complex Banach algebra can never be empty, whereas in a real Banach algebra it could be empty for some elements.
 Banach algebras can also be defined over fields of p-adic numbers. This is part of p-adic analysis.Boris Leonidovich Pasternak (; Russian: Бори́с Леони́дович Пастерна́к, IPA: [bɐˈrʲis lʲɪɐˈnʲidəvʲɪtɕ pəstɨrˈnak]; 10 February [O.S. 29 January] 1890 – 30 May 1960) was a Russian poet, novelist, and literary translator. Composed in 1917, Pasternak's first book of poems, My Sister, Life, was published in Berlin in 1922 and soon became an important collection in the Russian language. Pasternak's translations of stage plays by Goethe, Schiller, Calderón de la Barca and Shakespeare remain very popular with Russian audiences.
-Pasternak is the author of Doctor Zhivago (1957), a novel that takes place between the Russian Revolution of 1905 and the Second World War. Doctor Zhivago was rejected for publication in the USSR, but the manuscript was smuggled to Italy for publication. Pasternak was awarded the Nobel Prize for Literature in 1958, an event that enraged the Communist Party of the Soviet Union, which forced him to decline the prize. Finally, in 1989 Pasternak's son Yevgeny accepted the award on his father's behalf. Doctor Zhivago has been part of the main Russian school curriculum since 2003.
+Pasternak is the author of Doctor Zhivago (1957), a novel that takes place between the Russian Revolution of 1905 and the Second World War. Doctor Zhivago was rejected for publication in the USSR, but the manuscript was smuggled to Italy for publication. Pasternak was awarded the Nobel Prize for Literature in 1958, an event that enraged the Communist Party of the Soviet Union, which forced him to decline the prize. Finally, in 1989 Pasternak's son Yevgeny accepted the award on his father's behalf. Doctor Zhivago has been part of the main Russian school curriculum since 2003.In mathematics, the binomial coefficients are the positive integers that occur as coefficients in the binomial theorem. Commonly, a binomial coefficient is indexed by a pair of integers n ≥ k ≥ 0 and is written 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                k
+              
+              
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\tbinom {n}{k}}.}
+   It is the coefficient of the xk term in the polynomial expansion of the binomial power (1 + x)n, and is given by the formula
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              k
+              !
+              (
+              n
+              −
+              k
+              )
+              !
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\binom {n}{k}}={\frac {n!}{k!(n-k)!}}.}
+  For example, the fourth power of 1 + x is
+
+  
+    
+      
+        
+          
+            
+              
+                (
+                1
+                +
+                x
+                
+                  )
+                  
+                    4
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        (
+                      
+                      
+                        4
+                        0
+                      
+                      
+                        )
+                      
+                    
+                  
+                
+                
+                  x
+                  
+                    0
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        (
+                      
+                      
+                        4
+                        1
+                      
+                      
+                        )
+                      
+                    
+                  
+                
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        (
+                      
+                      
+                        4
+                        2
+                      
+                      
+                        )
+                      
+                    
+                  
+                
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        (
+                      
+                      
+                        4
+                        3
+                      
+                      
+                        )
+                      
+                    
+                  
+                
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        (
+                      
+                      
+                        4
+                        4
+                      
+                      
+                        )
+                      
+                    
+                  
+                
+                
+                  x
+                  
+                    4
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                1
+                +
+                4
+                x
+                +
+                6
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                4
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                
+                  x
+                  
+                    4
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}(1+x)^{4}&={\tbinom {4}{0}}x^{0}+{\tbinom {4}{1}}x^{1}+{\tbinom {4}{2}}x^{2}+{\tbinom {4}{3}}x^{3}+{\tbinom {4}{4}}x^{4}\\&=1+4x+6x^{2}+4x^{3}+x^{4},\end{aligned}}}
+  and the binomial coefficient 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                4
+                2
+              
+              
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                4
+                !
+              
+              
+                2
+                !
+                2
+                !
+              
+            
+          
+        
+        =
+        6
+      
+    
+    {\displaystyle {\tbinom {4}{2}}={\tfrac {4!}{2!2!}}=6}
+   is the coefficient of the x2 term.
+Arranging the numbers 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                0
+              
+              
+                )
+              
+            
+          
+        
+        ,
+        
+          
+            
+              
+                (
+              
+              
+                n
+                1
+              
+              
+                )
+              
+            
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                (
+              
+              
+                n
+                n
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{0}},{\tbinom {n}{1}},\ldots ,{\tbinom {n}{n}}}
+   in successive rows for 
+  
+    
+      
+        n
+        =
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+      
+    
+    {\displaystyle n=0,1,2,\ldots }
+   gives a triangular array called Pascal's triangle, satisfying the recurrence relation
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              (
+            
+            
+              
+                n
+                −
+                1
+              
+              k
+            
+            
+              )
+            
+          
+        
+        +
+        
+          
+            
+              (
+            
+            
+              
+                n
+                −
+                1
+              
+              
+                k
+                −
+                1
+              
+            
+            
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\binom {n}{k}}={\binom {n-1}{k}}+{\binom {n-1}{k-1}}.}
+  The binomial coefficients occur in many areas of mathematics, and especially in combinatorics. The symbol 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                k
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{k}}}
+   is usually read as "n choose k" because there are 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                k
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{k}}}
+   ways to choose an (unordered) subset of k elements from a fixed set of n elements. For example, there are 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                4
+                2
+              
+              
+                )
+              
+            
+          
+        
+        =
+        6
+      
+    
+    {\displaystyle {\tbinom {4}{2}}=6}
+   ways to choose 2 elements from 
+  
+    
+      
+        {
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        4
+        }
+        ,
+      
+    
+    {\displaystyle \{1,2,3,4\},}
+   namely 
+  
+    
+      
+        {
+        1
+        ,
+        2
+        }
+        ,
+        
+        {
+        1
+        ,
+        3
+        }
+        ,
+        
+        {
+        1
+        ,
+        4
+        }
+        ,
+        
+        {
+        2
+        ,
+        3
+        }
+        ,
+        
+        {
+        2
+        ,
+        4
+        }
+        ,
+      
+    
+    {\displaystyle \{1,2\},\,\{1,3\},\,\{1,4\},\,\{2,3\},\,\{2,4\},}
+   and 
+  
+    
+      
+        {
+        3
+        ,
+        4
+        }
+        .
+      
+    
+    {\displaystyle \{3,4\}.}
+  
+The binomial coefficients can be generalized to 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                z
+                k
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {z}{k}}}
+   for any complex number z and integer k ≥ 0, and many of their properties continue to hold in this more general form.
+
