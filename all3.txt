@@ -2476,3 +2476,98 @@ Some such bands form on their own, often evolving out of church choral or gospel
 In computer science, a B-tree is a self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree generalizes the binary search tree, allowing for nodes with more than two children. Unlike other self-balancing binary search trees, the B-tree is well suited for storage systems that read and write relatively large blocks of data, such as databases and file systems.The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million works is among the largest and most comprehensive in existence.  It documents the story of human culture from its beginnings to the present.  The British Museum was the first public national museum in the world.The Museum was established in 1753, largely based on the collections of the Anglo-Irish physician and scientist Sir Hans Sloane. It first opened to the public in 1759, in Montagu House, on the site of the current building. The museum's expansion over the following 250 years was largely a result of British colonisation and has resulted in the creation of several branch institutions, or independent spin-offs, the first being the Natural History Museum in 1881.
 In 1973, the British Library Act 1972 detached the library department from the British Museum, but it continued to host the now separated British Library in the same Reading Room and building as the museum until 1997. The museum is a non-departmental public body sponsored by the Department for Digital, Culture, Media and Sport, and as with all national museums in the UK it charges no admission fee, except for loan exhibitions.Its ownership of a small percentage of its most famous objects originating in other countries is disputed and remains the subject of international controversy through repatriation claims, most notably in the case of the Elgin Marbles of Greece, and the Rosetta Stone of Egypt.Bloody Sunday may refer to:
 
+In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial (x + y)n into a sum involving terms of the form axbyc, where the exponents b and c are nonnegative integers with b + c = n, and the coefficient a of each term is a specific positive integer depending on n and b.  For example, for n = 4,
+
+The coefficient a in the term of axbyc is known as the binomial coefficient 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                b
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{b}}}
+   or 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                c
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{c}}}
+   (the two have the same value). These coefficients for varying n and b can be arranged to form Pascal's triangle. These numbers also occur in combinatorics, where 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                b
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{b}}}
+   gives the number of different combinations of b elements that can be chosen from an n-element set.  Therefore 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                b
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tbinom {n}{b}}}
+   is often pronounced as "n choose b".
