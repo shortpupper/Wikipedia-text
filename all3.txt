@@ -511,4 +511,91 @@ Stalingrad was strategically important as a major industrial and transport hub o
 On 19 November, the Red Army launched Operation Uranus, a two-pronged attack targeting the weaker Romanian armies protecting the 6th Army's flanks. The Axis flanks were overrun and the 6th Army was cut off and surrounded in the Stalingrad area. Adolf Hitler was determined to hold the city at all costs and forbade the 6th Army from attempting a breakout; instead, attempts were made to supply it by air and to break the encirclement from the outside. The Soviets were successful in denying the Germans the ability to resupply through the air which strained the German forces to their breaking point. Nevertheless the Wehrmacht were determined to continue their advance and heavy fighting continued for another two months. In February 1943, the German 6th army, having exhausted their ammunition and food, finally capitulated, making it the first of Hitler's field armies to surrender during World War Two, after five months, one week, and three days of fighting.
 
 Bodhidharma   was a semi-legendary Buddhist monk who lived during the 5th or 6th century. He is traditionally credited as the transmitter of Buddhism to China, and regarded as its first Chinese patriarch. According to Chinese legend, he also began the physical training of the monks of Shaolin Monastery that led to the creation of Shaolin kungfu. He is known as Dámó in China and as Daruma in Japan. His name means "dharma of awakening (bodhi)" in Sanskrit.Little contemporary biographical information on Bodhidharma is extant, and subsequent accounts became layered with legend and unreliable details.According to the principal Chinese sources, Bodhidharma came from the Western Regions, which refers to Central Asia but may also include the Indian subcontinent, and is described as either a "Persian Central Asian" or a "South Indian [...] the third son of a great Indian king."
-Throughout Buddhist art, Bodhidharma is depicted as an ill-tempered, profusely-bearded, wide-eyed non-Chinese person. He is referred as "The Blue-Eyed Barbarian" (Chinese: 碧眼胡; pinyin: Bìyǎnhú) in Chan texts.Aside from the Chinese accounts, several popular traditions also exist regarding Bodhidharma's origins.The accounts also differ on the date of his arrival, with one early account claiming that he arrived during the Liu Song dynasty (420–479) and later accounts dating his arrival to the Liang dynasty (502–557). Bodhidharma was primarily active in the territory of the Northern Wei (386–534). Modern scholarship dates him to about the early 5th century.Bodhidharma's teachings and practice centered on meditation and the Laṅkāvatāra Sūtra. The Anthology of the Patriarchal Hall (952) identifies Bodhidharma as the 28th Patriarch of Buddhism in an uninterrupted line that extends all the way back to the Gautama Buddha himself.
+Throughout Buddhist art, Bodhidharma is depicted as an ill-tempered, profusely-bearded, wide-eyed non-Chinese person. He is referred as "The Blue-Eyed Barbarian" (Chinese: 碧眼胡; pinyin: Bìyǎnhú) in Chan texts.Aside from the Chinese accounts, several popular traditions also exist regarding Bodhidharma's origins.The accounts also differ on the date of his arrival, with one early account claiming that he arrived during the Liu Song dynasty (420–479) and later accounts dating his arrival to the Liang dynasty (502–557). Bodhidharma was primarily active in the territory of the Northern Wei (386–534). Modern scholarship dates him to about the early 5th century.Bodhidharma's teachings and practice centered on meditation and the Laṅkāvatāra Sūtra. The Anthology of the Patriarchal Hall (952) identifies Bodhidharma as the 28th Patriarch of Buddhism in an uninterrupted line that extends all the way back to the Gautama Buddha himself.In propositional logic, biconditional introduction is a valid rule of inference. It allows for one to infer a biconditional from two conditional statements. The rule makes it possible to introduce a biconditional statement into a logical proof. If 
+  
+    
+      
+        P
+        →
+        Q
+      
+    
+    {\displaystyle P\to Q}
+   is true, and if 
+  
+    
+      
+        Q
+        →
+        P
+      
+    
+    {\displaystyle Q\to P}
+   is true, then one may infer that 
+  
+    
+      
+        P
+        ↔
+        Q
+      
+    
+    {\displaystyle P\leftrightarrow Q}
+   is true. For example, from the statements "if I'm breathing, then I'm alive" and "if I'm alive, then I'm breathing", it can be inferred that "I'm breathing if and only if I'm alive". Biconditional introduction is the converse of biconditional elimination. The rule can be stated formally as:
+
+  
+    
+      
+        
+          
+            
+              P
+              →
+              Q
+              ,
+              Q
+              →
+              P
+            
+            
+              ∴
+              P
+              ↔
+              Q
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {P\to Q,Q\to P}{\therefore P\leftrightarrow Q}}}
+  where the rule is that wherever instances of "
+  
+    
+      
+        P
+        →
+        Q
+      
+    
+    {\displaystyle P\to Q}
+  " and "
+  
+    
+      
+        Q
+        →
+        P
+      
+    
+    {\displaystyle Q\to P}
+  " appear on lines of a proof, "
+  
+    
+      
+        P
+        ↔
+        Q
+      
+    
+    {\displaystyle P\leftrightarrow Q}
+  " can validly be placed on a subsequent line.
