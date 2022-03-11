@@ -216,4 +216,79 @@ The "Hitchcockian" style includes the use of camera movement to mimic a person's
 In 2012, Hitchcock's psychological thriller Vertigo, starring Stewart, displaced Orson Welles' Citizen Kane (1941) as the British Film Institute's greatest film ever made based on its world-wide poll of hundreds of film critics. As of 2021, nine of his films had been selected for preservation in the United States National Film Registry,  including his personal favourite, Shadow of a Doubt (1943). He received the BAFTA Fellowship in 1971, the AFI Life Achievement Award in 1979 and was knighted in December that year, four months before his death on 29 April 1980.Anacondas or water boas are a group of large snakes of the genus Eunectes. They are found in tropical South America. Four species are currently recognized.
 
 Altaic (; also called Transeurasian) is a sprachbund (i.e. a linguistic area) and proposed language family that would include the Turkic, Mongolic and Tungusic language families and possibly also the Japonic and Koreanic languages.: 73  Speakers of these languages are currently scattered over most of Asia north of 35 °N and in some eastern parts of Europe, extending in longitude from Turkey to Japan. The group is named after the Altai mountain range in the center of Asia.
-The hypothetical language family has long been rejected by most comparative linguists, although it continues to be supported by a small but stable scholarly minority. The research on their supposedly common linguistics origin has inspired various comparative studies on the folklore and mythology among the Turks, Proto-Mongols and Tungus people.The Altaic family was first proposed in the 18th century. It was widely accepted until the 1960s and is still listed in many encyclopedias and handbooks. Since the 1950s, many comparative linguists have rejected the proposal, after supposed cognates were found not to be valid, hypothesized sound shifts were not found, and Turkic and Mongolic languages were found to be converging rather than diverging over the centuries. Opponents of the theory proposed that the similarities are due to mutual linguistic influences between the groups concerned. Modern supporters of Altaic acknowledge that many shared features are the result of contact and convergence and thus cannot be taken as evidence for a genetic relationship, but they nevertheless argue that a core of existing correspondences goes back to a common ancestor.The original hypothesis unified only the Turkic, Mongolian, and Tungusic groups. Later proposals to include the Korean and Japanese languages into a "Macro-Altaic" family have always been controversial. The original proposal was sometimes called "Micro-Altaic" by retronymy. Most proponents of Altaic continue to support the inclusion of Korean. A common ancestral Proto-Altaic language for the "Macro" family has been tentatively reconstructed by Sergei Starostin and others. Some proposals also included Ainuic but this is not widely accepted even among Altaicists themselves.Micro-Altaic includes about 66 living languages, to which Macro-Altaic would add Korean, Jeju, Japanese, and the Ryukyuan languages, for a total of about 74 (depending on what is considered a language and what is considered a dialect). These numbers do not include earlier states of languages, such as Middle Mongol, Old Korean, or Old Japanese.Austrian German (German: Österreichisches Deutsch), Austrian Standard German (ASG), Standard Austrian German (Österreichisches Standarddeutsch), or Austrian High German (Österreichisches Hochdeutsch), is the variety of Standard German written and spoken in Austria. It has the highest sociolinguistic prestige locally, as it is the variation used in the media and for other formal situations. In less formal situations, Austrians tend to use forms closer to or identical with the Bavarian and Alemannic dialects, traditionally spoken – but rarely written – in Austria.
+The hypothetical language family has long been rejected by most comparative linguists, although it continues to be supported by a small but stable scholarly minority. The research on their supposedly common linguistics origin has inspired various comparative studies on the folklore and mythology among the Turks, Proto-Mongols and Tungus people.The Altaic family was first proposed in the 18th century. It was widely accepted until the 1960s and is still listed in many encyclopedias and handbooks. Since the 1950s, many comparative linguists have rejected the proposal, after supposed cognates were found not to be valid, hypothesized sound shifts were not found, and Turkic and Mongolic languages were found to be converging rather than diverging over the centuries. Opponents of the theory proposed that the similarities are due to mutual linguistic influences between the groups concerned. Modern supporters of Altaic acknowledge that many shared features are the result of contact and convergence and thus cannot be taken as evidence for a genetic relationship, but they nevertheless argue that a core of existing correspondences goes back to a common ancestor.The original hypothesis unified only the Turkic, Mongolian, and Tungusic groups. Later proposals to include the Korean and Japanese languages into a "Macro-Altaic" family have always been controversial. The original proposal was sometimes called "Micro-Altaic" by retronymy. Most proponents of Altaic continue to support the inclusion of Korean. A common ancestral Proto-Altaic language for the "Macro" family has been tentatively reconstructed by Sergei Starostin and others. Some proposals also included Ainuic but this is not widely accepted even among Altaicists themselves.Micro-Altaic includes about 66 living languages, to which Macro-Altaic would add Korean, Jeju, Japanese, and the Ryukyuan languages, for a total of about 74 (depending on what is considered a language and what is considered a dialect). These numbers do not include earlier states of languages, such as Middle Mongol, Old Korean, or Old Japanese.Austrian German (German: Österreichisches Deutsch), Austrian Standard German (ASG), Standard Austrian German (Österreichisches Standarddeutsch), or Austrian High German (Österreichisches Hochdeutsch), is the variety of Standard German written and spoken in Austria. It has the highest sociolinguistic prestige locally, as it is the variation used in the media and for other formal situations. In less formal situations, Austrians tend to use forms closer to or identical with the Bavarian and Alemannic dialects, traditionally spoken – but rarely written – in Austria.In mathematics, the axiom of choice, or AC, is an axiom of set theory equivalent to the statement that a Cartesian product of a collection of non-empty sets is non-empty. Informally put, the axiom of choice says that given any collection of bins, each containing at least one object, it is possible to make a selection of exactly one object from each bin, even if the collection is infinite. Formally, it states that for every indexed family 
+  
+    
+      
+        (
+        
+          S
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+      
+    
+    {\displaystyle (S_{i})_{i\in I}}
+   of nonempty sets there exists an indexed family 
+  
+    
+      
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ∈
+            I
+          
+        
+      
+    
+    {\displaystyle (x_{i})_{i\in I}}
+   of elements such that 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        ∈
+        
+          S
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}\in S_{i}}
+   for every 
+  
+    
+      
+        i
+        ∈
+        I
+      
+    
+    {\displaystyle i\in I}
+  .  The axiom of choice was formulated in 1904 by Ernst Zermelo in order to formalize his proof of the well-ordering theorem.In many cases, such a selection can be made without invoking the axiom of choice; this is in particular the case if the number of sets is finite, or if a selection rule is available – some distinguishing property that happens to hold for exactly one element in each set. An illustrative example is sets picked from the natural numbers. From such sets, one may always select the smallest number, e.g. given the sets {{4, 5, 6}, {10, 12}, {1, 400, 617, 8000}} the set containing each smallest element is {4, 10, 1}. In this case, "select the smallest number" is a choice function. Even if infinitely many sets were collected from the natural numbers, it will always be possible to choose the smallest element from each set to produce a set. That is, the choice function provides the set of chosen elements. However, no choice function is known for the collection of all non-empty subsets of the real numbers (if there are non-constructible reals). In that case, the axiom of choice must be invoked.
+Bertrand Russell coined an analogy: for any (even infinite) collection of pairs of shoes, one can pick out the left shoe from each pair to obtain an appropriate selection; this makes it possible to directly define a choice function. For an infinite collection of pairs of socks (assumed to have no distinguishing features), there is no obvious way to make a function that selects one sock from each pair, without invoking the axiom of choice.Although originally controversial, the axiom of choice is now used without reservation by most mathematicians, and it is included in the standard form of axiomatic set theory, Zermelo–Fraenkel set theory with the axiom of choice (ZFC). One motivation for this use is that a number of generally accepted mathematical results, such as Tychonoff's theorem, require the axiom of choice for their proofs. Contemporary set theorists also study axioms that are not compatible with the axiom of choice, such as the axiom of determinacy. The axiom of choice is avoided in some varieties of constructive mathematics, although there are varieties of constructive mathematics in which the axiom of choice is embraced.
