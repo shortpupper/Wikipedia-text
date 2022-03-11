@@ -1786,4 +1786,85 @@ Bee pollination is important both ecologically and commercially, and the decline
 The person in an organisation who is employed to perform bookkeeping functions is usually called the bookkeeper (or book-keeper). They usually write the daybooks (which contain records of sales, purchases, receipts, and payments), and document each financial transaction, whether cash or credit, into the correct daybook—that is, petty cash book, suppliers ledger, customer ledger, etc.—and the general ledger. Thereafter, an accountant can create financial reports from the information recorded by the bookkeeper. The bookkeeper brings the books to the trial balance stage, from which an accountant may prepare financial reports  for the organisation, such as the income statement and balance sheet.A Bézier curve ( BEH-zee-ay) is a parametric curve used in computer graphics and related fields. A set of discrete "control points" defines a smooth, continuous curve by means of a formula. Usually the curve is intended to approximate a real-world shape that otherwise has no mathematical representation or whose representation is unknown or too complicated. Bézier curve is named after French engineer Pierre Bézier, who used it in the 1960s for designing curves for the bodywork of Renault cars. Other uses include the design of computer fonts and animation. Bézier curves can be combined to form a Bézier spline, or generalized to higher dimensions to form Bézier surfaces. The Bézier triangle is a special case of the latter.
 In vector graphics, Bézier curves are used to model smooth curves that can be scaled indefinitely. "Paths", as they are commonly referred to in image manipulation programs, are combinations of linked Bézier curves. Paths are not bound by the limits of rasterized images and are intuitive to modify.
 Bézier curves are also used in the time domain, particularly in animation, user interface design and smoothing cursor trajectory in eye gaze controlled interfaces. For example, a Bézier curve can be used to specify the velocity over time of an object such as an icon moving from A to B, rather than simply moving at a fixed number of pixels per step. When animators or interface designers talk about the "physics" or "feel" of an operation, they may be referring to the particular Bézier curve used to control the velocity over time of the move in question.
-This also applies to robotics where the motion of a welding arm, for example, should be smooth to avoid unnecessary wear.
+This also applies to robotics where the motion of a welding arm, for example, should be smooth to avoid unnecessary wear.In mathematics, especially functional analysis, a Banach algebra, named after Stefan Banach, is an associative algebra A over the real or complex numbers (or over a non-Archimedean complete normed field) that at the same time is also a Banach space, that is, a normed space that is complete in the metric induced by the norm. The norm is required to satisfy
+
+  
+    
+      
+        ∀
+        x
+        ,
+        y
+        ∈
+        A
+        ,
+        ‖
+        x
+        
+        y
+        ‖
+         
+        ≤
+        ‖
+        x
+        ‖
+        
+        ‖
+        y
+        ‖
+        .
+      
+    
+    {\displaystyle \forall x,y\in A,\|x\,y\|\ \leq \|x\|\,\|y\|.}
+  This ensures that the multiplication operation is continuous.
+A Banach algebra is called unital if it has an identity element for the multiplication whose norm is 1, and commutative if its multiplication is commutative.
+Any Banach algebra 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   (whether it has an identity element or not) can be embedded isometrically into a unital Banach algebra 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A_{e}}
+   so as to form a closed ideal of 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A_{e}}
+  . Often one assumes a priori that the algebra under consideration is unital: for one can develop much of the theory by considering 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A_{e}}
+   and then applying the outcome in the original algebra. However, this is not the case all the time. For example, one cannot define all the trigonometric functions in a Banach algebra without identity.
+The theory of real Banach algebras can be very different from the theory of complex Banach algebras. For example, the spectrum of an element of a nontrivial complex Banach algebra can never be empty, whereas in a real Banach algebra it could be empty for some elements.
+Banach algebras can also be defined over fields of p-adic numbers. This is part of p-adic analysis.
