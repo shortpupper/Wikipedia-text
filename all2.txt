@@ -1486,3 +1486,11 @@ The rock unit is a black shale and crops out at a number of localities near the 
 Beavis and Butt-Head is an American adult animated comedy television series created by Mike Judge. The series follows the eponymous Beavis and Butt-Head, both voiced by Judge, a pair of teenage slackers characterized by their apathy, lack of intelligence, lowbrow humor, and failure to attract women.
 The characters originated in Judge's 1992 short film Frog Baseball, which was broadcast by MTV's animation showcase Liquid Television. After MTV commissioned a full series around the characters, Beavis and Butt-Head ran for seven seasons from March 8, 1993, to November 28, 1997. The series was revived with an eighth season airing on MTV from October 27, 2011, to December 29, 2011, but was cancelled a second time following the season's conclusion. A second revival consisting of two seasons is scheduled to release on Paramount+.During its initial run, Beavis and Butt-Head received widespread critical acclaim for its satirical, scathing commentary on society. The show's popularity spawned various related media, including the theatrical film Beavis and Butt-Head Do America in 1996. A second film has also been announced to be released in July 2022 on Paramount+.
 
+Bromeliales is an order of flowering plants.  Such an order has been recognized by a few systems of plant taxonomy, with a various placement.  It appears that it always has had the same circumscription: 
+consisting only of the family Bromeliaceae, the bromeliad or pineapple family.  The order is not recognized in the APG II system, of 2003, which places the plants involved in the order Poales. Some examples are:
+
+The Cronquist system of 1981 placed this order in subclass Zingiberidae, of class Liliopsida [=monocotyledons].
+The Thorne system (1992) placed the order in superorder Commelinanae in subclass Liliidae [=monocotyledons].
+The Dahlgren system placed the order in superorder Bromeliiflorae (also known as Bromelianae) in subclass Liliidae  [=monocotyledons] together with five other orders.
+The Engler system, in its update of 1964, placed the order in class Monocotyledoneae.
+
