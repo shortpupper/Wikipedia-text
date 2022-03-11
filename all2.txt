@@ -652,3 +652,4 @@ ACE inhibitors inhibit the activity of angiotensin-converting enzyme, an importa
 
 Frequently prescribed ACE inhibitors include benazepril, zofenopril, perindopril, trandolapril, captopril, enalapril, lisinopril, and ramipril.An antianginal is a drug used in the treatment of angina pectoris, a symptom of ischaemic heart disease.
 
+The Anatomical Therapeutic Chemical (ATC) Classification System is a drug classification system that classifies the active ingredients of drugs according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. Its purpose is an aid to monitor drug use and for research to improve quality medication use.   It does not imply drug recommendation or efficacy. It is controlled by the World Health Organization Collaborating Centre for Drug Statistics Methodology (WHOCC), and was first published in 1976.
