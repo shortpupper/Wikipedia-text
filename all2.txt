@@ -1934,3 +1934,5 @@ The National League Championship Series (NLCS) is a best-of-seven playoff and on
 
 The American League Championship Series (ALCS) is a best-of-seven playoff and one of two League Championship Series comprising the penultimate round of Major League Baseball's (MLB) postseason. It is contested by the winners of the two American League (AL) Division Series. The winner of the ALCS wins the AL pennant and advances to the World Series, MLB's championship series, to play the winner of the National League's (NL) Championship Series. The ALCS began in 1969 as a best-of-five playoff and used this format until 1985, when it changed to its current best-of-seven format.
 
+In Major League Baseball, the American League Division Series (ALDS) determines which two teams from the American League will advance to the American League Championship Series. The Division Series consists of two best-of-five series, featuring the three division winners and the winner of the wild-card play-off.
+
