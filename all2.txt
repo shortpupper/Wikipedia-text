@@ -1881,3 +1881,5 @@ A batter who draws a base on balls is commonly said to have been "walked" by the
 The total bases divided by the number of at bats is the player's slugging average.
 Hank Aaron is the career leader in total bases with 6,856. Stan Musial (6,134), Willie Mays (6,080), and Albert Pujols (6,038) are the only other players with at least 6,000 career total bases.
 
+In baseball, hit by pitch (HBP) is an event in which a batter or his clothing or equipment (other than his bat) is struck directly by a pitch from the pitcher; the batter is called a hit batsman (HB). A hit batsman is awarded first base, provided that (in the plate umpire's judgment) he made an honest effort to avoid the pitch, although failure to do so is rarely called by an umpire. Being hit by a pitch is often caused by a batter standing too close to, or "crowding", home plate.
+The rule dates from 1884; before that, a pitch that struck the batter was merely a ball.
