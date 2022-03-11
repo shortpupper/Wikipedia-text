@@ -1447,3 +1447,54 @@ Classical Arminianism, to which Arminius is the main contributor, and Wesleyan A
 Many Christian denominations have been influenced by Arminian views on the will of man being freed by grace prior to regeneration, notably the Baptists in 17th century, the Methodists in the 18th century, and the Pentecostals in the 20th century.The Alan Parsons Project were a Scottish rock band active between 1975 and 1990, whose core membership consisted of Alan Parsons and Eric Woolfson. They were accompanied by a varying number of session musicians and some relatively consistent session players such as guitarist Ian Bairnson, arranger Andrew Powell, bassist and vocalist David Paton, drummer Stuart Elliott, and vocalists Lenny Zakatek and Chris Rainbow. Parsons was an audio engineer and producer by profession, but also a musician and a composer. A songwriter by profession, Woolfson was also a composer, a pianist, and a singer. Almost all the songs on the Project's albums are credited to "Woolfson/Parsons".
 The Alan Parsons Project released eleven studio albums in its 15-year career, including the successful I Robot and Eye in the Sky. Some of their most notable songs are "The Raven", "(The System of) Dr. Tarr and Professor Fether", "I Wouldn't Want to Be Like You", "Games People Play", "Time", "Snake Eyes", "Sirius"/"Eye in the Sky", "Old and Wise", and "Don't Answer Me".
 
+In mathematics, the term "almost all" means "all but a negligible amount". More precisely, if 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is a set, "almost all elements of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  " means "all elements of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   but those in a negligible subset of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  ". The meaning of "negligible" depends on the mathematical context; for instance, it can mean finite, countable, or null.
+In contrast, "almost no" means "a negligible amount"; that is, "almost no elements of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  " means "a negligible amount of elements of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  ".
+
