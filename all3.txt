@@ -1613,4 +1613,147 @@ William Edgar Oddie  (born 7 July 1941) is an English writer, comedian, songwrit
 A birder since his childhood in Quinton, Birmingham, Oddie has established a reputation as a naturalist, conservationist, and television presenter on wildlife issues. Some of his books are illustrated with his own paintings and drawings. His wildlife programmes for the BBC include Springwatch and Autumnwatch, How to Watch Wildlife, Wild in Your Garden, Birding with Bill Oddie, Britain Goes Wild with Bill Oddie and Bill Oddie Goes Wild.
 
 Broadway () is a road in the U.S. state of New York. Broadway runs from State Street at Bowling Green for 13 mi (21 km) through the borough of Manhattan and 2 mi (3.2 km) through the Bronx, exiting north from New York City to run an additional 18 mi (29 km) through the Westchester County municipalities of Yonkers, Hastings-On-Hudson, Dobbs Ferry, Irvington, and Tarrytown, and terminating north of Sleepy Hollow.It is the oldest north–south main thoroughfare in New York City, with much of the current street beginning as the Wickquasgeck trail before the arrival of Europeans.   This formed the basis for one of the primary thoroughfares of the Dutch New Amsterdam colony, which continued under British rule, although most of it did not bear its current name until the late 19th century.
-Broadway in Manhattan is known widely as the heart of the American commercial theatrical industry, and is used as a metonym for it, as well as in the names of alternative theatrical ventures such as Off-Broadway and Off-off-Broadway.
+Broadway in Manhattan is known widely as the heart of the American commercial theatrical industry, and is used as a metonym for it, as well as in the names of alternative theatrical ventures such as Off-Broadway and Off-off-Broadway.The bilinear transform (also known as Tustin's method) is used in digital signal processing and discrete-time control theory to transform continuous-time system representations to discrete-time and vice versa.
+The bilinear transform is a special case of a conformal mapping (namely, a Möbius transformation), often used to convert a transfer function 
+  
+    
+      
+        
+          H
+          
+            a
+          
+        
+        (
+        s
+        )
+      
+    
+    {\displaystyle H_{a}(s)}
+   of a linear, time-invariant (LTI) filter in the continuous-time domain (often called an analog filter) to a transfer function 
+  
+    
+      
+        
+          H
+          
+            d
+          
+        
+        (
+        z
+        )
+      
+    
+    {\displaystyle H_{d}(z)}
+   of a linear, shift-invariant filter in the discrete-time domain (often called a digital filter although there are analog filters constructed with switched capacitors that are discrete-time filters). It maps positions on the 
+  
+    
+      
+        j
+        ω
+      
+    
+    {\displaystyle j\omega }
+   axis, 
+  
+    
+      
+        
+          R
+          e
+        
+        [
+        s
+        ]
+        =
+        0
+      
+    
+    {\displaystyle \mathrm {Re} [s]=0}
+  , in the s-plane to the unit circle, 
+  
+    
+      
+        
+          |
+        
+        z
+        
+          |
+        
+        =
+        1
+      
+    
+    {\displaystyle |z|=1}
+  , in the z-plane.  Other bilinear transforms can be used to warp the frequency response of any discrete-time linear system (for example to approximate the non-linear frequency resolution of the human auditory system) and are implementable in the discrete domain by replacing a system's unit delays 
+  
+    
+      
+        
+          (
+          
+            z
+            
+              −
+              1
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(z^{-1}\right)}
+   with first order all-pass filters.
+The transform preserves stability and maps every point of the frequency response of the continuous-time filter, 
+  
+    
+      
+        
+          H
+          
+            a
+          
+        
+        (
+        j
+        
+          ω
+          
+            a
+          
+        
+        )
+      
+    
+    {\displaystyle H_{a}(j\omega _{a})}
+   to a corresponding point in the frequency response of the discrete-time filter, 
+  
+    
+      
+        
+          H
+          
+            d
+          
+        
+        (
+        
+          e
+          
+            j
+            
+              ω
+              
+                d
+              
+            
+            T
+          
+        
+        )
+      
+    
+    {\displaystyle H_{d}(e^{j\omega _{d}T})}
+   although to a somewhat different frequency, as shown in the Frequency warping section below.  This means that for every feature that one sees in the frequency response of the analog filter, there is a corresponding feature, with identical gain and phase shift, in the frequency response of the digital filter but, perhaps, at a somewhat different frequency.  This is barely noticeable at low frequencies but is quite evident at frequencies close to the Nyquist frequency.
