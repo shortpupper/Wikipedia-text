@@ -2438,4 +2438,64 @@ Adalbert of Prague (Latin: Sanctus Adalbertus, Czech: svatý Vojtěch, Slovak: s
 Ælfheah (c. 953 – 19 April 1012), more commonly known today as Alphege, was an Anglo-Saxon Bishop of Winchester, later Archbishop of Canterbury. He became an anchorite before being elected abbot of Bath Abbey. His reputation for piety and sanctity led to his promotion to the episcopate and, eventually, to his becoming archbishop. Ælfheah furthered the cult of Dunstan and also encouraged learning. He was captured by Viking raiders in 1011 during the siege of Canterbury and killed by them the following year after refusing to allow himself to be ransomed. Ælfheah was canonised as a saint in 1078. Thomas Becket, a later Archbishop of Canterbury, prayed to him just before his own murder in Canterbury Cathedral in 1170.In mathematics, an associative algebra A is an algebraic structure with compatible operations of addition, multiplication (assumed to be associative), and a scalar multiplication by elements in some field. The addition and multiplication operations together give A the structure of a ring; the addition and scalar multiplication operations together give A the structure of a vector space over K. In this article we will also use the term K-algebra to mean an associative algebra over the field K. A standard first example of a K-algebra is a ring of square matrices over a field K, with the usual matrix multiplication.
 A commutative algebra is an associative algebra that has a commutative multiplication, or, equivalently, an associative algebra that is also a commutative ring.
 In this article associative algebras are assumed to have a multiplicative identity, denoted 1; they are sometimes called unital associative algebras for clarification. In some areas of mathematics this assumption is not made, and we will call such structures non-unital associative algebras. We will also assume that all rings are unital, and all ring homomorphisms are unital.
-Many authors consider the more general concept of an associative algebra over a commutative ring R, instead of a field: An R-algebra is an R-module with an associative R-bilinear binary operation, which also contains a multiplicative identity. For examples of this concept, if S is any ring with center C, then S is an associative C-algebra.
+Many authors consider the more general concept of an associative algebra over a commutative ring R, instead of a field: An R-algebra is an R-module with an associative R-bilinear binary operation, which also contains a multiplicative identity. For examples of this concept, if S is any ring with center C, then S is an associative C-algebra.In mathematics, the axiom of regularity (also known as the axiom of foundation) is an axiom of Zermelo–Fraenkel set theory that states that every non-empty set A contains an element that is disjoint from A. In first-order logic, the axiom reads:
+
+  
+    
+      
+        ∀
+        x
+        
+        (
+        x
+        ≠
+        ∅
+        →
+        ∃
+        y
+        (
+        y
+        ∈
+        x
+         
+        ∧
+        y
+        ∩
+        x
+        =
+        ∅
+        )
+        )
+        .
+      
+    
+    {\displaystyle \forall x\,(x\neq \varnothing \rightarrow \exists y(y\in x\ \land y\cap x=\varnothing )).}
+  The axiom of regularity together with the axiom of pairing implies that no set is an element of itself, and that there is no infinite sequence (an) such that ai+1 is an element of ai for all i. With the axiom of dependent choice (which is a weakened form of the axiom of choice), this result can be reversed: if there are no such infinite sequences, then the axiom of regularity is true. Hence, in this context the axiom of regularity is equivalent to the sentence that there are no downward infinite membership chains.
+The axiom was introduced by von Neumann (1925); it was adopted in a formulation closer to the one found in contemporary textbooks by Zermelo (1930). Virtually all results in the branches of mathematics based on set theory hold even in the absence of regularity; see chapter 3 of Kunen (1980).  However, regularity makes some properties of ordinals easier to prove; and it not only allows induction to be done on well-ordered sets but also on proper classes that are well-founded relational structures such as the lexicographical ordering on 
+  
+    
+      
+        {
+        (
+        n
+        ,
+        α
+        )
+        ∣
+        n
+        ∈
+        ω
+        ∧
+        α
+        
+           is an ordinal 
+        
+        }
+        
+        .
+      
+    
+    {\displaystyle \{(n,\alpha )\mid n\in \omega \land \alpha {\text{ is an ordinal }}\}\,.}
+  
+Given the other axioms of Zermelo–Fraenkel set theory, the axiom of regularity is equivalent to the axiom of induction. The axiom of induction tends to be used in place of the axiom of regularity in intuitionistic theories (ones that do not accept the law of the excluded middle), where the two axioms are not equivalent.
+In addition to omitting the axiom of regularity, non-standard set theories have indeed postulated the existence of sets that are elements of themselves.
