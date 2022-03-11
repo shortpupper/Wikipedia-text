@@ -1362,3 +1362,5 @@ In software testing, the ISTQB defines acceptance testing as: Formal testing wit
 
 The Archbishopric of Riga (Latin: Archiepiscopatus Rigensis, Low German: Erzbisdom Riga) was an archbishopric in Medieval Livonia, a subject to the Holy See. It was established in 1186 as the bishopric of Livonia at Ikšķile, then after moving to Riga it became the bishopric of Riga in 1202 and was elevated to an archbishopric in 1255.
 
+Albert Frederick (German: Albrecht Friedrich; Polish: Albrecht Fryderyk; 7 May 1553 – 27 August 1618) was the Duke of Prussia, from 1568 until his death.  He was a son of Albert of Prussia and Anna Marie of Brunswick-Lüneburg. He was the second and last Prussian duke of the Ansbach branch of the Hohenzollern family.
+
