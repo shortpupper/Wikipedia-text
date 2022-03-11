@@ -1627,4 +1627,16 @@ Alabaster is a mineral or rock that is soft, often used for carving, and is proc
 
 In general, ancient alabaster is calcite in the wider Middle East, including Egypt and Mesopotamia, while it is gypsum in medieval Europe. Modern alabaster is probably calcite but may be either. Both are easy to work and slightly soluble in water. They have been used for making a variety of indoor artwork and carving, and they will not survive long outdoors.
 The two kinds are readily distinguished by their different hardnesses: gypsum alabaster (Mohs hardness 1.5 to 2) is so soft that a fingernail scratches it, while calcite (Mohs hardness 3) cannot be scratched in this way but yields to a knife. Moreover, calcite alabaster, being a carbonate, effervesces when treated with hydrochloric acid, while gypsum alabaster remains almost unaffected.Ahab (Hebrew: אַחְאָב‎, Modern: 'Aẖ'av, Tiberian: ʼAḥʼāḇ; Akkadian: 𒀀𒄩𒀊𒁍 Aḫâbbu [a-ḫa-ab-bu]; Koinē Greek: Ἀχαάβ Achaáb; Latin: Achab) was the seventh king of Israel, the son and successor of King Omri and the husband of Jezebel of Sidon, according to the Hebrew Bible.[1 Kings 16:29-34] The Hebrew Bible presents Ahab as a wicked king, particularly for condoning Jezebel's influence on religious policies and his principal role behind Naboth's arbitrary execution.
-The existence of Ahab is historically supported outside the Bible. Shalmaneser III of Assyria documented in 853 BC that he defeated an alliance of a dozen kings in the Battle of Qarqar; one of these was Ahab. He is also mentioned on the inscriptions of the Mesha Stele.Ahab became king of Israel in the thirty-eighth year of King Asa of Judah, and reigned for twenty-two years, according to 1 Kings.[1 Kings 16:29] William F. Albright dated his reign to 869–850 BC, while Edwin R. Thiele offered the dates 874–853 BC. Most recently, Michael Coogan has dated Ahab's reign to 871–852 BC.
+The existence of Ahab is historically supported outside the Bible. Shalmaneser III of Assyria documented in 853 BC that he defeated an alliance of a dozen kings in the Battle of Qarqar; one of these was Ahab. He is also mentioned on the inscriptions of the Mesha Stele.Ahab became king of Israel in the thirty-eighth year of King Asa of Judah, and reigned for twenty-two years, according to 1 Kings.[1 Kings 16:29] William F. Albright dated his reign to 869–850 BC, while Edwin R. Thiele offered the dates 874–853 BC. Most recently, Michael Coogan has dated Ahab's reign to 871–852 BC.In the realm of electronic technology, ASIC stands for "application-specific integrated circuit".
+An ASIC is an integrated circuit  developed for a particular use, as opposed to a general-purpose integrated circuit.
+ASIC may also refer to:
+
+Accreditation Service for International Colleges, an educational accreditation agency in the UK
+Acid-sensing ion channels, a protein family
+Air and Space Interoperability Council
+Arfoire Syndicate of International Crime, the antagonist group in the video game Hyperdimension Neptunia Mk2
+ASIC programming language, a dialect of BASIC
+Associated Signature Containers (ASiC) specifies the use of container structures to bind together one or more signed objects with either advanced electronic signatures or time-stamp tokens into one single digital container.
+Association Scientifique Internationale pour le Café, see Andrea Illy
+Australian Securities & Investments Commission, Australia's corporate regulator
+Aviation Security Identification Card, an Australian identification card
