@@ -2488,3 +2488,54 @@ The Apple II became one of several recognizable and successful computers during 
 Despite the introduction of the Motorola 68000-based Macintosh in 1984, the Apple II series still reportedly accounted for 85% of the company's hardware sales in the first quarter of fiscal 1985. Apple continued to sell Apple II systems alongside the Macintosh until terminating the IIGS in December 1992 and the IIe in November 1993. The last II-series Apple in production, the IIe card for Macintoshes, was discontinued on October 15, 1993. The total Apple II sales of all of its models during its 16-year production run were about 6 million units, with the peak occurring in 1983 when 1 million were sold.The Apple III (styled as apple ///) is a business-oriented personal computer produced by Apple Computer and released in 1980. Running the Apple SOS operating system, it was intended as the successor to the Apple II series, but was largely considered a failure in the market. It was designed to provide key features business users wanted in a personal computer: a true typewriter-style upper/lowercase keyboard (the Apple II only supported uppercase) and an 80-column display.
 Work on the Apple III started in late 1978 under the guidance of Dr. Wendell Sander. It had the internal code name of "Sara", named after Sander's daughter. The system was announced on May 19, 1980 and released in late November that year. Serious stability issues required a design overhaul and a recall of the first 14,000 machines produced. The Apple III was formally reintroduced on November 9, 1981.Damage to the computer's reputation had already been done and it failed to do well commercially. Development stopped and the Apple III was discontinued on April 24, 1984, and its last successor, the III Plus, was dropped from the Apple product line in September 1985.An estimated 65,000–75,000 Apple III computers were sold. The Apple III Plus brought this up to approximately 120,000. Apple co-founder Steve Wozniak stated that the primary reason for the Apple III's failure was that the system was designed by Apple's marketing department, unlike Apple's previous engineering-driven projects. The Apple III's failure led Apple to reevaluate its plan to phase out the Apple II, prompting the eventual continuation of development of the older machine. As a result, later Apple II models incorporated some hardware and software technologies of the Apple III.
 
+In computer science, an AVL tree (named after inventors Adelson-Velsky and Landis) is a self-balancing binary search tree (BST). It was the first such data structure to be invented. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take O(log n) time in both the average and worst cases, where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is the number of nodes in the tree prior to the operation. Insertions and deletions may require the tree to be rebalanced by one or more tree rotations.
+The AVL tree is named after its two Soviet inventors, Georgy Adelson-Velsky and Evgenii Landis, who published it in their 1962 paper "An algorithm for the organization of information".AVL trees are often compared with red–black trees because both support the same set of operations and take 
+  
+    
+      
+        
+          O
+        
+        (
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle {\text{O}}(\log n)}
+   time for the basic operations. For lookup-intensive applications, AVL trees are faster than red–black trees because they are more strictly balanced. Similar to red–black trees, AVL trees are height-balanced. Both are, in general, neither weight-balanced nor 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  -balanced for any 
+  
+    
+      
+        μ
+        ≤
+        
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mu \leq {\tfrac {1}{2}}}
+  ; that is, sibling nodes can have hugely differing numbers of descendants.
+
