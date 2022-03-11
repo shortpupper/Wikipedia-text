@@ -502,3 +502,5 @@ In terms of current popular technologies, any computer connected to the same Eth
 The notion of broadcast domain should be contrasted with that of collision domain, which would be all nodes on the same set of inter-connected repeaters, divided by switches and learning bridges. Collision domains are generally smaller than, and contained within, broadcast domains.
 While some layer two network devices are able to divide the collision domains, broadcast domains are only divided by layer 3 network devices such as routers or layer 3 switches. Separating VLANs divides broadcast domains as well.
 
+Beechcraft is a brand of Textron Aviation since 2014. Originally, it was a brand of Beech Aircraft Corporation, an American manufacturer of general aviation, commercial, and military aircraft, ranging from light single-engined aircraft to twin-engined turboprop transports, business jets, and military trainers. Beech later became a division of Raytheon and then Hawker Beechcraft before a bankruptcy sale turned its assets over to Textron (parent company of Beech's historical cross-town Wichita rival, Cessna Aircraft Company). It remains a brand of Textron Aviation.
+
