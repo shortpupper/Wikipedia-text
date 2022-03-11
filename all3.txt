@@ -1022,3 +1022,493 @@ Some consumer cameras, in particular DV cameras, can "burn" (overlay) the tape t
 Timecode is stored in the metadata areas of captured DV AVI files, and some software is able to "burn" (overlay) this into the video frames. For example, DVMP Pro is able to "burn" timecode or other items of DV metadata (such as date and time, iris, shutter speed, gain, white balance mode, etc.) into DV AVI files.
 OCR techniques can be used to read BITC in situations where other forms of timecode are not available.
 
+In quantum mechanics, bra–ket notation, or Dirac notation, is used ubiquitously to denote quantum states. The notation uses angle brackets, 
+  
+    
+      
+        ⟨
+      
+    
+    {\displaystyle \langle }
+   and 
+  
+    
+      
+        ⟩
+      
+    
+    {\displaystyle \rangle }
+  , and a vertical bar 
+  
+    
+      
+        
+          |
+        
+      
+    
+    {\displaystyle |}
+  , to construct "bras" and "kets".
+A ket is of the form 
+  
+    
+      
+        
+          |
+        
+        v
+        ⟩
+      
+    
+    {\displaystyle |v\rangle }
+  . Mathematically it denotes a vector, 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle {\boldsymbol {v}}}
+  , in an abstract (complex) vector space 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  , and physically it represents a state of some quantum system.
+A bra is of the form 
+  
+    
+      
+        ⟨
+        f
+        
+          |
+        
+      
+    
+    {\displaystyle \langle f|}
+  . Mathematically it denotes a linear form 
+  
+    
+      
+        f
+        :
+        V
+        →
+        
+          C
+        
+      
+    
+    {\displaystyle f:V\to \mathbb {C} }
+  , i.e. a linear map that maps each vector in 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   to a number in the complex plane 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  . Letting the linear functional 
+  
+    
+      
+        ⟨
+        f
+        
+          |
+        
+      
+    
+    {\displaystyle \langle f|}
+   act on a vector 
+  
+    
+      
+        
+          |
+        
+        v
+        ⟩
+      
+    
+    {\displaystyle |v\rangle }
+   is written as 
+  
+    
+      
+        ⟨
+        f
+        
+          |
+        
+        v
+        ⟩
+        ∈
+        
+          C
+        
+      
+    
+    {\displaystyle \langle f|v\rangle \in \mathbb {C} }
+  . 
+Assume that on 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   there exists an inner product 
+  
+    
+      
+        (
+        ⋅
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle (\cdot ,\cdot )}
+   with antilinear first argument, which makes 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   an inner product space. Then with this inner product each vector 
+  
+    
+      
+        
+          ϕ
+        
+        ≡
+        
+          |
+        
+        ϕ
+        ⟩
+      
+    
+    {\displaystyle {\boldsymbol {\phi }}\equiv |\phi \rangle }
+   can be identified with a corresponding linear form, by placing the vector in the anti-linear first slot of the inner product: 
+  
+    
+      
+        (
+        
+          ϕ
+        
+        ,
+        ⋅
+        )
+        ≡
+        ⟨
+        ϕ
+        
+          |
+        
+      
+    
+    {\displaystyle ({\boldsymbol {\phi }},\cdot )\equiv \langle \phi |}
+  . The correspondence between these notations is then 
+  
+    
+      
+        (
+        
+          ϕ
+        
+        ,
+        
+          ψ
+        
+        )
+        ≡
+        ⟨
+        ϕ
+        
+          |
+        
+        ψ
+        ⟩
+      
+    
+    {\displaystyle ({\boldsymbol {\phi }},{\boldsymbol {\psi }})\equiv \langle \phi |\psi \rangle }
+  . The linear form 
+  
+    
+      
+        ⟨
+        ϕ
+        
+          |
+        
+      
+    
+    {\displaystyle \langle \phi |}
+   is a covector to 
+  
+    
+      
+        
+          |
+        
+        ϕ
+        ⟩
+      
+    
+    {\displaystyle |\phi \rangle }
+  , and the set of all covectors form a subspace of the dual vector space 
+  
+    
+      
+        
+          V
+          
+            ∨
+          
+        
+      
+    
+    {\displaystyle V^{\vee }}
+  , to the initial vector space 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  . The purpose of this linear form 
+  
+    
+      
+        ⟨
+        ϕ
+        
+          |
+        
+      
+    
+    {\displaystyle \langle \phi |}
+   can now be understood in terms of making projections on the state 
+  
+    
+      
+        
+          ϕ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\phi }}}
+  , to find how linearly dependent two states are, etc.
+For the vector space 
+  
+    
+      
+        
+          
+            C
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {C} ^{n}}
+  , kets can be identified with column vectors, and bras with row vectors. Combinations of bras, kets, and linear operators are interpreted using matrix multiplication. If 
+  
+    
+      
+        
+          
+            C
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {C} ^{n}}
+   has the standard Hermitian inner product 
+  
+    
+      
+        (
+        
+          v
+        
+        ,
+        
+          w
+        
+        )
+        =
+        
+          v
+          
+            †
+          
+        
+        w
+      
+    
+    {\displaystyle ({\boldsymbol {v}},{\boldsymbol {w}})=v^{\dagger }w}
+  , under this identification, the identification of kets and bras and vice versa provided by the inner product is taking the Hermitian conjugate (denoted 
+  
+    
+      
+        †
+      
+    
+    {\displaystyle \dagger }
+  ).
+It is common to suppress the vector or linear form from the bra–ket notation and only use a label inside the typography for the bra or ket. For example, the spin operator 
+  
+    
+      
+        
+          
+            
+              
+                σ
+                ^
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+    {\displaystyle {\hat {\sigma }}_{z}}
+   on a two dimensional space 
+  
+    
+      
+        Δ
+      
+    
+    {\displaystyle \Delta }
+   of spinors, has eigenvalues 
+  
+    
+      
+        ±
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\textstyle \pm {\frac {1}{2}}}
+   with eigenspinors 
+  
+    
+      
+        
+          
+            ψ
+          
+          
+            +
+          
+        
+        ,
+        
+          
+            ψ
+          
+          
+            −
+          
+        
+        ∈
+        Δ
+      
+    
+    {\displaystyle {\boldsymbol {\psi }}_{+},{\boldsymbol {\psi }}_{-}\in \Delta }
+  . In bra–ket notation, this is typically denoted as 
+  
+    
+      
+        
+          
+            ψ
+          
+          
+            +
+          
+        
+        =
+        
+          |
+        
+        +
+        ⟩
+      
+    
+    {\displaystyle {\boldsymbol {\psi }}_{+}=|+\rangle }
+  , and 
+  
+    
+      
+        
+          
+            ψ
+          
+          
+            −
+          
+        
+        =
+        
+          |
+        
+        −
+        ⟩
+      
+    
+    {\displaystyle {\boldsymbol {\psi }}_{-}=|-\rangle }
+  . As above, kets and bras with the same label are interpreted as kets and bras corresponding to each other using the inner product. In particular, when also identified with row and column vectors, kets and bras with the same label are identified with Hermitian conjugate column and row vectors. 
+Bra–ket notation was effectively established in 1939 by Paul Dirac; it is thus also known as Dirac notation, despite the notation having a precursor in Hermann Grassmann's use of 
+  
+    
+      
+        [
+        ϕ
+        
+          ∣
+        
+        ψ
+        ]
+      
+    
+    {\displaystyle [\phi {\mid }\psi ]}
+   for inner products nearly 100 years earlier.
