@@ -2562,3 +2562,4 @@ The AVL tree is named after its two Soviet inventors, Georgy Adelson-Velsky and 
     {\displaystyle \mu \leq {\tfrac {1}{2}}}
   ; that is, sibling nodes can have hugely differing numbers of descendants.
 
+In organic chemistry, hydrocarbons (compounds composed solely of carbon and hydrogen) are divided into two classes: aromatic compounds and aliphatic compounds (; G. aleiphar, fat, oil). Aliphatic compounds can be saturated, like hexane, or unsaturated, like hexene and hexyne. Open-chain compounds, whether straight or branched, and which contain no rings of any type, are always aliphatic. Cyclic compounds can be aliphatic if they are not aromatic.
