@@ -2812,3 +2812,5 @@ Bubalina, including most "Old World" buffalo, such as water buffalo
 Bison, including the American buffalo
 Buffalo, New YorkBuffalo or buffaloes may also refer to:
 
+The BeBox is a dual CPU personal computer, briefly sold by Be Inc. to run the company's own operating system, BeOS. It has PowerPC CPUs, its I/O board has a custom "GeekPort", and the front bezel has "Blinkenlights".
+The BeBox made its debut in October 1995 in a dual PowerPC 603 at 66 MHz configuration. The processors were upgraded to 133 MHz in August 1996 (BeBox Dual603e-133). Production was halted in January 1997, following the port of BeOS to the Macintosh, in order for the company to concentrate on software. Be sold around 1000 66 MHz BeBoxes and 800 133 MHz BeBoxes.BeBox creator Jean-Louis Gassée did not see the BeBox as a general consumer device, warning that "Before we let you use the BeBox, we believe you must have some aptitude toward programming –  the standard language is C++."
